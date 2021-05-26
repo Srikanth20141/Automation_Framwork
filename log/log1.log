@@ -1,0 +1,984 @@
+2021-05-11 17:51:34,839 - Testcase1 -INFO - Chrome brower started
+2021-05-11 17:51:38,873 - Testcase1 -INFO - firstname entered
+2021-05-11 17:51:39,060 - Testcase1 -INFO - lastname entered
+2021-05-11 17:51:39,153 - Testcase1 -INFO - address entered
+2021-05-11 17:51:39,243 - Testcase1 -INFO - email entered
+2021-05-11 19:28:58,427 - Testcase1 -INFO - Chrome brower started
+2021-05-11 19:29:39,447 - Testcase1 -INFO - firstname entered
+2021-05-11 19:29:39,744 - Testcase1 -INFO - lastname entered
+2021-05-11 19:29:39,930 - Testcase1 -INFO - address entered
+2021-05-11 19:29:40,182 - Testcase1 -INFO - email entered
+2021-05-11 19:31:00,202 - Testcase1 -INFO - Chrome brower started
+2021-05-11 19:31:06,354 - Testcase1 -INFO - firstname entered
+2021-05-11 19:31:06,673 - Testcase1 -INFO - lastname entered
+2021-05-11 19:31:06,850 - Testcase1 -INFO - address entered
+2021-05-11 19:31:07,046 - Testcase1 -INFO - email entered
+2021-05-11 19:34:56,393 - Testcase1 -INFO - Chrome brower started
+2021-05-11 19:35:00,293 - Testcase1 -INFO - firstname entered
+2021-05-11 19:35:00,495 - Testcase1 -INFO - lastname entered
+2021-05-11 19:35:00,714 - Testcase1 -INFO - address entered
+2021-05-11 19:35:17,374 - Testcase1 -INFO - email entered
+2021-05-11 19:43:58,578 - Testcase1 -INFO - Chrome brower started
+2021-05-11 19:44:05,918 - Testcase1 -INFO - firstname entered
+2021-05-11 19:44:06,078 - Testcase1 -INFO - lastname entered
+2021-05-11 19:44:06,189 - Testcase1 -INFO - address entered
+2021-05-11 19:44:06,305 - Testcase1 -INFO - email entered
+2021-05-11 19:55:49,895 - Testcase1 -INFO - Chrome brower started
+2021-05-11 19:55:55,016 - Testcase1 -INFO - firstname entered
+2021-05-11 19:55:55,222 - Testcase1 -INFO - lastname entered
+2021-05-11 19:55:55,384 - Testcase1 -INFO - address entered
+2021-05-11 19:55:55,616 - Testcase1 -INFO - email entered
+2021-05-11 19:56:34,932 - Testcase1 -INFO - Chrome brower started
+2021-05-11 19:56:40,128 - Testcase1 -INFO - firstname entered
+2021-05-11 19:56:40,436 - Testcase1 -INFO - lastname entered
+2021-05-11 19:56:40,640 - Testcase1 -INFO - address entered
+2021-05-11 19:56:40,952 - Testcase1 -INFO - email entered
+2021-05-11 20:00:55,016 - Testcase1 -INFO - Chrome brower started
+2021-05-11 20:01:00,963 - Testcase1 -INFO - firstname entered
+2021-05-11 20:01:01,179 - Testcase1 -INFO - lastname entered
+2021-05-11 20:01:01,399 - Testcase1 -INFO - address entered
+2021-05-11 20:01:01,580 - Testcase1 -INFO - email entered
+2021-05-12 07:47:32,848 - Testcase1 -INFO - Chrome brower started
+2021-05-12 07:47:39,746 - Testcase1 -INFO - firstname entered
+2021-05-12 07:47:39,817 - Testcase1 -INFO - lastname entered
+2021-05-12 07:47:39,868 - Testcase1 -INFO - address entered
+2021-05-12 07:47:39,931 - Testcase1 -INFO - email entered
+2021-05-12 07:54:06,129 - Testcase1 -INFO - Chrome brower started
+2021-05-12 07:54:12,641 - Testcase1 -INFO - firstname entered
+2021-05-12 07:54:12,713 - Testcase1 -INFO - lastname entered
+2021-05-12 07:54:12,792 - Testcase1 -INFO - address entered
+2021-05-12 07:54:12,857 - Testcase1 -INFO - email entered
+2021-05-12 07:59:30,603 - Testcase1 -INFO - Chrome brower started
+2021-05-12 07:59:35,352 - Testcase1 -INFO - firstname entered
+2021-05-12 07:59:35,411 - Testcase1 -INFO - lastname entered
+2021-05-12 07:59:35,486 - Testcase1 -INFO - address entered
+2021-05-12 07:59:35,571 - Testcase1 -INFO - email entered
+2021-05-12 08:04:24,072 - Testcase1 -INFO - Chrome brower started
+2021-05-12 08:04:28,343 - Testcase1 -INFO - firstname entered
+2021-05-12 08:04:28,402 - Testcase1 -INFO - lastname entered
+2021-05-12 08:04:28,452 - Testcase1 -INFO - address entered
+2021-05-12 08:04:28,512 - Testcase1 -INFO - email entered
+2021-05-12 08:12:42,682 - Testcase1 -INFO - Chrome brower started
+2021-05-12 08:12:46,703 - Testcase1 -INFO - firstname entered
+2021-05-12 08:12:46,764 - Testcase1 -INFO - lastname entered
+2021-05-12 08:12:46,833 - Testcase1 -INFO - address entered
+2021-05-12 08:12:46,923 - Testcase1 -INFO - email entered
+2021-05-12 08:18:16,492 - Testcase1 -INFO - Chrome brower started
+2021-05-12 08:18:21,152 - Testcase1 -INFO - firstname entered
+2021-05-12 08:18:36,715 - Testcase1 -INFO - Chrome brower started
+2021-05-12 08:18:40,475 - Testcase1 -INFO - firstname entered
+2021-05-12 08:18:40,541 - Testcase1 -INFO - lastname entered
+2021-05-12 08:18:40,603 - Testcase1 -INFO - address entered
+2021-05-12 08:18:40,689 - Testcase1 -INFO - email entered
+2021-05-12 08:24:33,010 - Testcase1 -INFO - Chrome brower started
+2021-05-12 08:24:55,905 - Testcase1 -INFO - firstname entered
+2021-05-12 08:24:55,992 - Testcase1 -INFO - lastname entered
+2021-05-12 08:24:56,042 - Testcase1 -INFO - address entered
+2021-05-12 08:24:56,105 - Testcase1 -INFO - email entered
+2021-05-12 08:33:08,909 - Testcase1 -INFO - Chrome brower started
+2021-05-12 08:33:13,818 - Testcase1 -INFO - firstname entered
+2021-05-12 08:33:13,875 - Testcase1 -INFO - lastname entered
+2021-05-12 08:33:13,927 - Testcase1 -INFO - address entered
+2021-05-12 08:33:13,987 - Testcase1 -INFO - email entered
+2021-05-12 08:33:34,273 - Testcase1 -INFO - Chrome brower started
+2021-05-12 08:33:39,920 - Testcase1 -INFO - firstname entered
+2021-05-12 08:33:40,033 - Testcase1 -INFO - lastname entered
+2021-05-12 08:33:40,152 - Testcase1 -INFO - address entered
+2021-05-12 08:33:40,268 - Testcase1 -INFO - email entered
+2021-05-12 08:50:50,895 - Testcase1 -INFO - Chrome brower started
+2021-05-12 08:50:56,010 - Testcase1 -INFO - firstname entered
+2021-05-12 08:50:56,067 - Testcase1 -INFO - lastname entered
+2021-05-12 08:50:56,122 - Testcase1 -INFO - address entered
+2021-05-12 08:50:56,195 - Testcase1 -INFO - email entered
+2021-05-12 09:22:47,651 - Testcase1 -INFO - Chrome brower started
+2021-05-12 09:22:54,190 - Testcase1 -INFO - firstname entered
+2021-05-12 09:22:54,247 - Testcase1 -INFO - lastname entered
+2021-05-12 09:22:54,304 - Testcase1 -INFO - address entered
+2021-05-12 09:22:54,362 - Testcase1 -INFO - email entered
+2021-05-12 09:23:23,625 - Testcase1 -INFO - Chrome brower started
+2021-05-12 09:23:30,214 - Testcase1 -INFO - firstname entered
+2021-05-12 09:23:30,285 - Testcase1 -INFO - lastname entered
+2021-05-12 09:23:30,340 - Testcase1 -INFO - address entered
+2021-05-12 09:23:30,407 - Testcase1 -INFO - email entered
+2021-05-12 09:24:53,583 - Testcase1 -INFO - Chrome brower started
+2021-05-12 09:24:59,508 - Testcase1 -INFO - firstname entered
+2021-05-12 09:24:59,576 - Testcase1 -INFO - lastname entered
+2021-05-12 09:24:59,628 - Testcase1 -INFO - address entered
+2021-05-12 09:24:59,687 - Testcase1 -INFO - email entered
+2021-05-12 09:45:58,287 - Testcase1 -INFO - Chrome brower started
+2021-05-12 09:46:04,755 - Testcase1 -INFO - firstname entered
+2021-05-12 09:46:04,833 - Testcase1 -INFO - lastname entered
+2021-05-12 09:46:04,880 - Testcase1 -INFO - address entered
+2021-05-12 09:46:04,942 - Testcase1 -INFO - email entered
+2021-05-12 09:46:57,237 - Testcase1 -INFO - Chrome brower started
+2021-05-12 09:47:23,104 - Testcase1 -INFO - Firstname entered
+2021-05-12 09:47:23,162 - Testcase1 -INFO - Lastname entered
+2021-05-12 09:47:23,213 - Testcase1 -INFO - Address entered
+2021-05-12 09:47:23,270 - Testcase1 -INFO - Email entered
+2021-05-12 09:56:30,293 - Testcase1 -INFO - Chrome brower started
+2021-05-12 09:56:39,681 - Testcase1 -INFO - Firstname entered
+2021-05-12 09:56:39,777 - Testcase1 -INFO - Lastname entered
+2021-05-12 09:56:39,831 - Testcase1 -INFO - Address entered
+2021-05-12 09:56:39,891 - Testcase1 -INFO - Email entered
+2021-05-12 10:49:53,382 - Testcase1 -INFO - Chrome brower started
+2021-05-12 10:50:00,056 - Testcase1 -INFO - Firstname entered
+2021-05-12 10:50:00,108 - Testcase1 -INFO - Lastname entered
+2021-05-12 10:50:00,155 - Testcase1 -INFO - Address entered
+2021-05-12 10:50:00,208 - Testcase1 -INFO - Email entered
+2021-05-12 10:55:13,701 - Testcase1 -INFO - Chrome brower started
+2021-05-12 10:55:17,862 - Testcase1 -INFO - Firstname entered
+2021-05-12 10:55:17,915 - Testcase1 -INFO - Lastname entered
+2021-05-12 10:55:17,964 - Testcase1 -INFO - Address entered
+2021-05-12 10:55:18,019 - Testcase1 -INFO - Email entered
+2021-05-12 11:01:03,223 - Testcase1 -INFO - Chrome brower started
+2021-05-12 11:01:08,180 - Testcase1 -INFO - Firstname entered
+2021-05-12 11:01:08,235 - Testcase1 -INFO - Lastname entered
+2021-05-12 11:01:08,285 - Testcase1 -INFO - Address entered
+2021-05-12 11:01:08,339 - Testcase1 -INFO - Email entered
+2021-05-12 11:07:59,955 - Testcase1 -INFO - Chrome brower started
+2021-05-12 11:08:05,337 - Testcase1 -INFO - Firstname entered
+2021-05-12 11:08:05,391 - Testcase1 -INFO - Lastname entered
+2021-05-12 11:08:05,440 - Testcase1 -INFO - Address entered
+2021-05-12 11:08:05,492 - Testcase1 -INFO - Email entered
+2021-05-12 13:42:14,801 - Testcase1 -INFO - Chrome brower started
+2021-05-12 13:42:26,214 - Testcase1 -INFO - Firstname entered
+2021-05-12 13:42:26,267 - Testcase1 -INFO - Lastname entered
+2021-05-12 13:42:26,318 - Testcase1 -INFO - Address entered
+2021-05-12 13:42:26,375 - Testcase1 -INFO - Email entered
+2021-05-12 13:42:28,072 - Testcase1 -INFO - Firstname entered
+2021-05-12 13:42:28,128 - Testcase1 -INFO - Lastname entered
+2021-05-12 13:42:28,199 - Testcase1 -INFO - Address entered
+2021-05-12 13:42:28,366 - Testcase1 -INFO - Email entered
+2021-05-12 14:10:16,099 - Testcase1 -INFO - Chrome brower started
+2021-05-12 14:10:18,832 - Testcase1 -INFO - Firstname entered
+2021-05-12 14:10:18,887 - Testcase1 -INFO - Lastname entered
+2021-05-12 14:10:18,940 - Testcase1 -INFO - Address entered
+2021-05-12 14:10:18,992 - Testcase1 -INFO - Email entered
+2021-05-12 14:10:19,150 - Testcase1 -INFO - Firstname entered
+2021-05-12 14:10:19,207 - Testcase1 -INFO - Lastname entered
+2021-05-12 14:10:19,255 - Testcase1 -INFO - Address entered
+2021-05-12 14:10:19,312 - Testcase1 -INFO - Email entered
+2021-05-12 14:18:53,147 - Testcase1 -INFO - Chrome brower started
+2021-05-12 14:18:56,030 - Testcase1 -INFO - Firstname entered
+2021-05-12 14:18:56,085 - Testcase1 -INFO - Lastname entered
+2021-05-12 14:18:56,135 - Testcase1 -INFO - Address entered
+2021-05-12 14:18:56,191 - Testcase1 -INFO - Email entered
+2021-05-12 14:18:56,464 - Testcase1 -INFO - Firstname entered
+2021-05-12 14:18:56,519 - Testcase1 -INFO - Lastname entered
+2021-05-12 14:18:56,568 - Testcase1 -INFO - Address entered
+2021-05-12 14:18:56,625 - Testcase1 -INFO - Email entered
+2021-05-12 14:44:05,022 - Testcase1 -INFO - Chrome brower started
+2021-05-12 14:44:07,862 - Testcase1 -INFO - Firstname entered
+2021-05-12 14:44:07,924 - Testcase1 -INFO - Lastname entered
+2021-05-12 14:44:07,995 - Testcase1 -INFO - Address entered
+2021-05-12 14:44:08,066 - Testcase1 -INFO - Email entered
+2021-05-12 14:44:08,104 - Testcase1 -INFO - Firstname entered
+2021-05-12 14:44:08,163 - Testcase1 -INFO - Lastname entered
+2021-05-12 14:44:08,213 - Testcase1 -INFO - Address entered
+2021-05-12 14:44:08,271 - Testcase1 -INFO - Email entered
+2021-05-12 15:09:48,912 - Testcase1 -INFO - Chrome brower started
+2021-05-12 15:09:52,959 - Testcase1 -INFO - Firstname entered
+2021-05-12 15:09:53,067 - Testcase1 -INFO - Lastname entered
+2021-05-12 15:09:53,153 - Testcase1 -INFO - Address entered
+2021-05-12 15:09:53,234 - Testcase1 -INFO - Email entered
+2021-05-12 15:09:53,283 - Testcase1 -INFO - Firstname entered
+2021-05-12 15:09:53,370 - Testcase1 -INFO - Lastname entered
+2021-05-12 15:09:53,447 - Testcase1 -INFO - Address entered
+2021-05-12 15:09:53,543 - Testcase1 -INFO - Email entered
+2021-05-12 15:11:47,970 - Testcase1 -INFO - Chrome brower started
+2021-05-12 15:11:50,798 - Testcase1 -INFO - Firstname entered
+2021-05-12 15:11:50,806 - Testcase1 -INFO - Firstname entered
+2021-05-12 15:11:50,858 - Testcase1 -INFO - Lastname entered
+2021-05-12 15:11:50,864 - Testcase1 -INFO - Lastname entered
+2021-05-12 15:11:50,915 - Testcase1 -INFO - Address entered
+2021-05-12 15:11:50,921 - Testcase1 -INFO - Address entered
+2021-05-12 15:11:50,987 - Testcase1 -INFO - Email entered
+2021-05-12 15:11:50,988 - Testcase1 -INFO - Email entered
+2021-05-12 15:14:00,864 - Testcase1 -INFO - Chrome brower started
+2021-05-12 15:14:03,682 - Testcase1 -INFO - Firstname entered
+2021-05-12 15:14:03,734 - Testcase1 -INFO - Lastname entered
+2021-05-12 15:14:03,786 - Testcase1 -INFO - Address entered
+2021-05-12 15:14:03,867 - Testcase1 -INFO - Firstname entered
+2021-05-12 15:14:03,868 - Testcase1 -INFO - Email entered
+2021-05-12 15:14:03,920 - Testcase1 -INFO - Lastname entered
+2021-05-12 15:14:03,965 - Testcase1 -INFO - Address entered
+2021-05-12 15:14:04,018 - Testcase1 -INFO - Email entered
+2021-05-12 15:43:21,847 - Testcase1 -INFO - Chrome brower started
+2021-05-12 15:43:25,391 - Testcase1 -INFO - Firstname entered
+2021-05-12 15:43:25,645 - Testcase1 -INFO - Lastname entered
+2021-05-12 15:43:25,793 - Testcase1 -INFO - Address entered
+2021-05-12 15:43:25,960 - Testcase1 -INFO - Email entered
+2021-05-12 15:43:26,011 - Testcase1 -INFO - Firstname entered
+2021-05-12 15:43:26,181 - Testcase1 -INFO - Lastname entered
+2021-05-12 15:43:26,292 - Testcase1 -INFO - Address entered
+2021-05-12 15:43:26,374 - Testcase1 -INFO - Email entered
+2021-05-12 15:45:59,439 - Testcase1 -INFO - Chrome brower started
+2021-05-12 15:46:03,731 - Testcase1 -INFO - Firstname entered
+2021-05-12 15:46:03,845 - Testcase1 -INFO - Lastname entered
+2021-05-12 15:46:03,948 - Testcase1 -INFO - Address entered
+2021-05-12 15:46:04,051 - Testcase1 -INFO - Email entered
+2021-05-12 15:46:04,404 - Testcase1 -INFO - Firstname entered
+2021-05-12 15:46:04,561 - Testcase1 -INFO - Lastname entered
+2021-05-12 15:46:04,697 - Testcase1 -INFO - Address entered
+2021-05-12 15:46:04,800 - Testcase1 -INFO - Email entered
+2021-05-12 15:53:56,000 - Testcase1 -INFO - Chrome brower started
+2021-05-12 15:53:58,788 - Testcase1 -INFO - Firstname entered
+2021-05-12 15:53:58,844 - Testcase1 -INFO - Lastname entered
+2021-05-12 15:53:58,904 - Testcase1 -INFO - Address entered
+2021-05-12 15:53:58,964 - Testcase1 -INFO - Email entered
+2021-05-12 15:53:59,174 - Testcase1 -INFO - Firstname entered
+2021-05-12 15:53:59,235 - Testcase1 -INFO - Lastname entered
+2021-05-12 15:53:59,296 - Testcase1 -INFO - Address entered
+2021-05-12 15:53:59,377 - Testcase1 -INFO - Email entered
+2021-05-12 18:44:49,829 - Testcase1 -INFO - Chrome brower started
+2021-05-12 18:44:55,393 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:44:55,615 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:44:55,853 - Testcase1 -INFO - Address entered
+2021-05-12 18:44:56,131 - Testcase1 -INFO - Email entered
+2021-05-12 18:44:56,997 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:44:57,241 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:44:57,529 - Testcase1 -INFO - Address entered
+2021-05-12 18:44:57,741 - Testcase1 -INFO - Email entered
+2021-05-12 18:46:47,853 - Testcase1 -INFO - Chrome brower started
+2021-05-12 18:46:51,832 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:46:52,073 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:46:52,239 - Testcase1 -INFO - Address entered
+2021-05-12 18:46:52,444 - Testcase1 -INFO - Email entered
+2021-05-12 18:46:53,248 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:46:53,438 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:46:53,565 - Testcase1 -INFO - Address entered
+2021-05-12 18:46:53,720 - Testcase1 -INFO - Email entered
+2021-05-12 18:50:09,126 - Testcase1 -INFO - Chrome brower started
+2021-05-12 18:50:12,738 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:50:12,977 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:50:13,106 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:50:13,220 - Testcase1 -INFO - Address entered
+2021-05-12 18:50:13,316 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:50:13,480 - Testcase1 -INFO - Email entered
+2021-05-12 18:50:13,537 - Testcase1 -INFO - Address entered
+2021-05-12 18:50:13,770 - Testcase1 -INFO - Email entered
+2021-05-12 18:53:36,216 - Testcase1 -INFO - Chrome brower started
+2021-05-12 18:53:41,473 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:53:41,519 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:53:41,656 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:53:41,683 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:53:41,791 - Testcase1 -INFO - Address entered
+2021-05-12 18:53:41,854 - Testcase1 -INFO - Address entered
+2021-05-12 18:53:42,032 - Testcase1 -INFO - Email entered
+2021-05-12 18:53:42,033 - Testcase1 -INFO - Email entered
+2021-05-12 18:55:38,669 - Testcase1 -INFO - Chrome brower started
+2021-05-12 18:55:42,941 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:55:43,118 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:55:43,323 - Testcase1 -INFO - Address entered
+2021-05-12 18:55:43,491 - Testcase1 -INFO - Email entered
+2021-05-12 18:56:42,847 - Testcase1 -INFO - Chrome brower started
+2021-05-12 18:56:48,276 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:56:48,514 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:56:48,692 - Testcase1 -INFO - Address entered
+2021-05-12 18:56:48,932 - Testcase1 -INFO - Email entered
+2021-05-12 18:56:49,272 - Testcase1 -INFO - Screenshot taken...
+2021-05-12 18:57:23,203 - Testcase1 -INFO - Chrome brower started
+2021-05-12 18:57:28,976 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:57:29,126 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:57:29,280 - Testcase1 -INFO - Address entered
+2021-05-12 18:57:29,470 - Testcase1 -INFO - Email entered
+2021-05-12 18:57:29,483 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:57:29,658 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:57:29,817 - Testcase1 -INFO - Screenshot taken...
+2021-05-12 18:57:29,846 - Testcase1 -INFO - Address entered
+2021-05-12 18:57:30,013 - Testcase1 -INFO - Email entered
+2021-05-12 18:57:30,323 - Testcase1 -INFO - Screenshot taken...
+2021-05-12 18:58:10,876 - Testcase1 -INFO - Chrome brower started
+2021-05-12 18:58:15,762 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:58:15,995 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:58:16,138 - Testcase1 -INFO - Address entered
+2021-05-12 18:58:16,282 - Testcase1 -INFO - Email entered
+2021-05-12 18:58:16,516 - Testcase1 -INFO - Screenshot taken...
+2021-05-12 18:58:46,517 - Testcase1 -INFO - Chrome brower started
+2021-05-12 18:58:50,794 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:58:50,973 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:58:51,100 - Testcase1 -INFO - Address entered
+2021-05-12 18:58:51,271 - Testcase1 -INFO - Email entered
+2021-05-12 18:58:51,456 - Testcase1 -INFO - Screenshot taken...
+2021-05-12 18:59:01,089 - Testcase1 -INFO - Chrome brower started
+2021-05-12 18:59:05,201 - Testcase1 -INFO - Firstname entered
+2021-05-12 18:59:05,418 - Testcase1 -INFO - Lastname entered
+2021-05-12 18:59:05,581 - Testcase1 -INFO - Address entered
+2021-05-12 18:59:05,744 - Testcase1 -INFO - Email entered
+2021-05-12 18:59:05,946 - Testcase1 -INFO - Screenshot taken...
+2021-05-13 16:36:48,029 - Testcase1 -INFO - Chrome brower started
+2021-05-13 23:50:06,219 - Testcase1 -INFO - Chrome brower started
+2021-05-13 23:50:10,810 - Testcase1 -INFO - Firstname entered
+2021-05-13 23:50:11,076 - Testcase1 -INFO - Lastname entered
+2021-05-13 23:50:11,246 - Testcase1 -INFO - Address entered
+2021-05-13 23:50:11,456 - Testcase1 -INFO - Email entered
+2021-05-13 23:50:12,030 - Testcase1 -INFO - Screenshot taken...
+2021-05-13 23:50:12,271 - Testcase1 -INFO - Screenshot taken...
+2021-05-13 23:50:33,163 - Testcase1 -INFO - Chrome brower started
+2021-05-13 23:50:36,971 - Testcase1 -INFO - Firstname entered
+2021-05-13 23:50:37,182 - Testcase1 -INFO - Lastname entered
+2021-05-13 23:50:37,482 - Testcase1 -INFO - Address entered
+2021-05-13 23:50:37,602 - Testcase1 -INFO - Email entered
+2021-05-13 23:50:37,720 - Testcase1 -INFO - Screenshot taken...
+2021-05-13 23:50:37,868 - Testcase1 -INFO - Screenshot taken...
+2021-05-14 09:29:13,989 - Testcase1 -INFO - Chrome brower started
+2021-05-14 09:29:18,654 - Testcase1 -INFO - Chrome brower started
+2021-05-14 09:29:22,211 - Testcase1 -INFO - Firstname entered
+2021-05-14 09:29:22,266 - Testcase1 -INFO - Lastname entered
+2021-05-14 09:29:22,317 - Testcase1 -INFO - Address entered
+2021-05-14 09:29:22,386 - Testcase1 -INFO - Email entered
+2021-05-14 09:29:22,461 - Testcase1 -INFO - Screenshot taken...
+2021-05-14 09:29:22,527 - Testcase1 -INFO - Screenshot taken...
+2021-05-14 09:31:58,820 - Testcase1 -INFO - Chrome brower started
+2021-05-14 09:32:01,634 - Testcase1 -INFO - Firstname entered
+2021-05-14 09:32:01,687 - Testcase1 -INFO - Lastname entered
+2021-05-14 09:32:01,735 - Testcase1 -INFO - Address entered
+2021-05-14 09:32:01,788 - Testcase1 -INFO - Email entered
+2021-05-14 09:32:01,876 - Testcase1 -INFO - Screenshot taken...
+2021-05-14 09:32:01,941 - Testcase1 -INFO - Screenshot taken...
+2021-05-14 09:46:56,708 - Testcase1 -INFO - Chrome brower started
+2021-05-14 09:47:00,171 - Testcase1 -INFO - Firstname entered
+2021-05-14 09:47:00,225 - Testcase1 -INFO - Lastname entered
+2021-05-14 09:47:00,287 - Testcase1 -INFO - Address entered
+2021-05-14 09:47:00,341 - Testcase1 -INFO - Email entered
+2021-05-14 09:47:00,416 - Testcase1 -INFO - Screenshot taken...
+2021-05-14 09:47:00,468 - Testcase1 -INFO - Screenshot taken...
+2021-05-14 09:50:00,532 - Testcase1 -INFO - Chrome brower started
+2021-05-14 09:50:04,105 - Testcase1 -INFO - Firstname entered
+2021-05-14 09:50:04,198 - Testcase1 -INFO - Lastname entered
+2021-05-14 09:50:04,265 - Testcase1 -INFO - Address entered
+2021-05-14 09:50:04,349 - Testcase1 -INFO - Email entered
+2021-05-14 09:50:04,514 - Testcase1 -INFO - Screenshot taken...
+2021-05-14 09:50:04,655 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 08:50:22,505 - Testcase1 -INFO - Chrome brower started
+2021-05-15 08:51:24,572 - Testcase1 -INFO - Firstname entered
+2021-05-15 08:51:24,628 - Testcase1 -INFO - Lastname entered
+2021-05-15 08:51:24,680 - Testcase1 -INFO - Address entered
+2021-05-15 08:51:24,721 - Testcase1 -INFO - Firstname entered
+2021-05-15 08:51:24,740 - Testcase1 -INFO - Email entered
+2021-05-15 08:51:24,780 - Testcase1 -INFO - Lastname entered
+2021-05-15 08:51:24,833 - Testcase1 -INFO - Address entered
+2021-05-15 08:51:24,893 - Testcase1 -INFO - Email entered
+2021-05-15 08:51:24,908 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 08:51:25,053 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 08:51:25,053 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 08:51:25,182 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 08:51:52,717 - Testcase1 -INFO - Chrome brower started
+2021-05-15 08:51:56,865 - Testcase1 -INFO - Firstname entered
+2021-05-15 08:51:56,903 - Testcase1 -INFO - Firstname entered
+2021-05-15 08:51:56,955 - Testcase1 -INFO - Lastname entered
+2021-05-15 08:51:56,984 - Testcase1 -INFO - Lastname entered
+2021-05-15 08:51:57,056 - Testcase1 -INFO - Address entered
+2021-05-15 08:51:57,065 - Testcase1 -INFO - Address entered
+2021-05-15 08:51:57,165 - Testcase1 -INFO - Email entered
+2021-05-15 08:51:57,199 - Testcase1 -INFO - Email entered
+2021-05-15 08:51:57,361 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 08:51:57,517 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 08:52:26,349 - Testcase1 -INFO - Chrome brower started
+2021-05-15 08:52:30,064 - Testcase1 -INFO - Firstname entered
+2021-05-15 08:52:30,118 - Testcase1 -INFO - Lastname entered
+2021-05-15 08:52:30,188 - Testcase1 -INFO - Address entered
+2021-05-15 08:52:30,302 - Testcase1 -INFO - Email entered
+2021-05-15 08:52:30,472 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 08:52:30,586 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 08:56:29,724 - Testcase1 -INFO - Chrome brower started
+2021-05-15 08:56:33,664 - Testcase1 -INFO - Firstname entered
+2021-05-15 08:56:33,718 - Testcase1 -INFO - Lastname entered
+2021-05-15 08:56:33,795 - Testcase1 -INFO - Address entered
+2021-05-15 08:56:33,880 - Testcase1 -INFO - Email entered
+2021-05-15 08:56:34,042 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 08:56:34,215 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 08:57:05,263 - Testcase1 -INFO - Chrome brower started
+2021-05-15 08:57:09,157 - Testcase1 -INFO - Firstname entered
+2021-05-15 08:57:09,215 - Testcase1 -INFO - Lastname entered
+2021-05-15 08:57:09,276 - Testcase1 -INFO - Address entered
+2021-05-15 08:57:09,363 - Testcase1 -INFO - Email entered
+2021-05-15 08:57:09,500 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 08:57:09,616 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 09:01:28,570 - Testcase1 -INFO - Chrome brower started
+2021-05-15 09:01:32,315 - Testcase1 -INFO - Firstname entered
+2021-05-15 09:01:32,376 - Testcase1 -INFO - Lastname entered
+2021-05-15 09:01:32,516 - Testcase1 -INFO - Address entered
+2021-05-15 09:01:32,594 - Testcase1 -INFO - Email entered
+2021-05-15 09:01:32,788 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 09:01:32,928 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 09:01:59,096 - Testcase1 -INFO - Chrome brower started
+2021-05-15 09:02:03,193 - Testcase1 -INFO - Firstname entered
+2021-05-15 09:02:03,248 - Testcase1 -INFO - Lastname entered
+2021-05-15 09:02:03,299 - Testcase1 -INFO - Address entered
+2021-05-15 09:02:03,367 - Testcase1 -INFO - Email entered
+2021-05-15 09:02:03,507 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 09:02:03,636 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 09:02:19,614 - Testcase1 -INFO - Chrome brower started
+2021-05-15 09:02:23,435 - Testcase1 -INFO - Firstname entered
+2021-05-15 09:02:23,499 - Testcase1 -INFO - Lastname entered
+2021-05-15 09:02:23,561 - Testcase1 -INFO - Address entered
+2021-05-15 09:02:23,646 - Testcase1 -INFO - Email entered
+2021-05-15 09:02:23,777 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 09:02:23,905 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 09:39:44,929 - Testcase1 -INFO - Chrome brower started
+2021-05-15 09:39:51,264 - Testcase1 -INFO - Firstname entered
+2021-05-15 09:39:51,323 - Testcase1 -INFO - Lastname entered
+2021-05-15 09:39:51,376 - Testcase1 -INFO - Address entered
+2021-05-15 09:39:51,434 - Testcase1 -INFO - Email entered
+2021-05-15 09:39:51,602 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 09:39:51,724 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 09:45:43,227 - Testcase1 -INFO - Firstname entered
+2021-05-15 09:45:43,272 - Testcase1 -INFO - Lastname entered
+2021-05-15 09:45:43,303 - Testcase1 -INFO - Address entered
+2021-05-15 09:45:43,371 - Testcase1 -INFO - Email entered
+2021-05-15 09:45:43,535 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 09:45:43,623 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 09:47:10,867 - Testcase1 -INFO - Firstname entered
+2021-05-15 09:47:10,932 - Testcase1 -INFO - Lastname entered
+2021-05-15 09:47:10,990 - Testcase1 -INFO - Address entered
+2021-05-15 09:47:11,046 - Testcase1 -INFO - Email entered
+2021-05-15 09:47:11,193 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 09:47:11,363 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 17:53:41,586 - Testcase1 -INFO - Edge browser started
+2021-05-15 17:53:48,637 - Testcase1 -INFO - Firstname entered
+2021-05-15 17:53:48,926 - Testcase1 -INFO - Lastname entered
+2021-05-15 17:53:49,176 - Testcase1 -INFO - Address entered
+2021-05-15 17:53:49,448 - Testcase1 -INFO - Email entered
+2021-05-15 17:53:49,955 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 17:53:50,191 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 18:02:42,450 - Testcase1 -INFO - Edge browser started
+2021-05-15 18:02:47,893 - Testcase1 -INFO - Firstname entered
+2021-05-15 18:02:48,065 - Testcase1 -INFO - Lastname entered
+2021-05-15 18:02:48,220 - Testcase1 -INFO - Address entered
+2021-05-15 18:02:48,353 - Testcase1 -INFO - Email entered
+2021-05-15 18:02:48,720 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 18:02:49,178 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 18:05:23,207 - Testcase1 -INFO - Edge browser started
+2021-05-15 18:05:28,668 - Testcase1 -INFO - Firstname entered
+2021-05-15 18:05:28,839 - Testcase1 -INFO - Lastname entered
+2021-05-15 18:05:28,945 - Testcase1 -INFO - Address entered
+2021-05-15 18:05:29,145 - Testcase1 -INFO - Email entered
+2021-05-15 18:05:29,498 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 18:05:29,879 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 18:08:03,531 - Testcase1 -INFO - Edge browser started
+2021-05-15 18:08:09,639 - Testcase1 -INFO - Firstname entered
+2021-05-15 18:08:09,862 - Testcase1 -INFO - Lastname entered
+2021-05-15 18:08:10,091 - Testcase1 -INFO - Address entered
+2021-05-15 18:08:10,348 - Testcase1 -INFO - Email entered
+2021-05-15 18:08:10,904 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 18:08:11,268 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 18:10:12,655 - Testcase1 -INFO - Edge browser started
+2021-05-15 18:10:18,958 - Testcase1 -INFO - Firstname entered
+2021-05-15 18:10:19,113 - Testcase1 -INFO - Lastname entered
+2021-05-15 18:10:19,276 - Testcase1 -INFO - Address entered
+2021-05-15 18:10:19,443 - Testcase1 -INFO - Email entered
+2021-05-15 18:10:19,856 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 18:10:20,160 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 20:57:52,253 - Testcase1 -INFO - Edge browser started
+2021-05-15 20:57:58,457 - Testcase1 -INFO - Firstname entered
+2021-05-15 20:57:58,658 - Testcase1 -INFO - Lastname entered
+2021-05-15 20:57:58,823 - Testcase1 -INFO - Address entered
+2021-05-15 20:57:59,008 - Testcase1 -INFO - Email entered
+2021-05-15 20:57:59,441 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 20:57:59,768 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 20:58:38,598 - Testcase1 -INFO - Edge browser started
+2021-05-15 20:58:43,760 - Testcase1 -INFO - Firstname entered
+2021-05-15 20:58:43,993 - Testcase1 -INFO - Lastname entered
+2021-05-15 20:58:44,118 - Testcase1 -INFO - Address entered
+2021-05-15 20:58:44,279 - Testcase1 -INFO - Email entered
+2021-05-15 20:58:44,574 - Testcase1 -INFO - Screenshot taken...
+2021-05-15 20:58:44,839 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 10:25:07,211 - Testcase1 -INFO - Edge browser started
+2021-05-18 10:25:24,692 - Testcase1 -INFO - Firstname entered
+2021-05-18 10:25:24,776 - Testcase1 -INFO - Lastname entered
+2021-05-18 10:25:24,827 - Testcase1 -INFO - Address entered
+2021-05-18 10:25:24,978 - Testcase1 -INFO - Email entered
+2021-05-18 10:25:25,133 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 10:25:25,319 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 10:37:53,182 - Testcase1 -INFO - Edge browser started
+2021-05-18 10:39:26,689 - Testcase1 -INFO - Firstname entered
+2021-05-18 10:39:26,746 - Testcase1 -INFO - Lastname entered
+2021-05-18 10:39:26,804 - Testcase1 -INFO - Address entered
+2021-05-18 10:39:26,858 - Testcase1 -INFO - Email entered
+2021-05-18 10:39:27,096 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 10:39:27,291 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 10:58:31,623 - Testcase1 -INFO - Edge browser started
+2021-05-18 10:58:36,207 - Testcase1 -INFO - Firstname entered
+2021-05-18 10:58:36,282 - Testcase1 -INFO - Lastname entered
+2021-05-18 10:58:36,342 - Testcase1 -INFO - Address entered
+2021-05-18 10:58:36,444 - Testcase1 -INFO - Email entered
+2021-05-18 10:58:36,595 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 10:58:36,711 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 11:04:13,266 - Testcase1 -INFO - Edge browser started
+2021-05-18 11:04:17,675 - Testcase1 -INFO - Firstname entered
+2021-05-18 11:04:17,739 - Testcase1 -INFO - Lastname entered
+2021-05-18 11:04:17,828 - Testcase1 -INFO - Address entered
+2021-05-18 11:04:17,992 - Testcase1 -INFO - Email entered
+2021-05-18 11:04:18,135 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 11:04:18,264 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 11:04:56,442 - Testcase1 -INFO - Edge browser started
+2021-05-18 11:05:00,684 - Testcase1 -INFO - Firstname entered
+2021-05-18 11:05:00,783 - Testcase1 -INFO - Lastname entered
+2021-05-18 11:05:00,852 - Testcase1 -INFO - Address entered
+2021-05-18 11:05:00,944 - Testcase1 -INFO - Email entered
+2021-05-18 11:05:01,125 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 11:05:01,256 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 11:05:34,858 - Testcase1 -INFO - Edge browser started
+2021-05-18 11:05:37,663 - Testcase1 -INFO - Firstname entered
+2021-05-18 11:05:37,721 - Testcase1 -INFO - Lastname entered
+2021-05-18 11:05:37,774 - Testcase1 -INFO - Address entered
+2021-05-18 11:05:37,838 - Testcase1 -INFO - Email entered
+2021-05-18 11:05:37,901 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 11:05:37,993 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 11:16:48,288 - Testcase1 -INFO - Edge browser started
+2021-05-18 11:16:51,007 - Testcase1 -INFO - Firstname entered
+2021-05-18 11:16:51,058 - Testcase1 -INFO - Lastname entered
+2021-05-18 11:16:51,108 - Testcase1 -INFO - Address entered
+2021-05-18 11:16:51,165 - Testcase1 -INFO - Email entered
+2021-05-18 11:16:51,240 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 11:16:51,301 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 11:31:48,404 - Testcase1 -INFO - Edge browser started
+2021-05-18 11:31:51,589 - Testcase1 -INFO - Firstname entered
+2021-05-18 11:31:51,640 - Testcase1 -INFO - Lastname entered
+2021-05-18 11:31:51,686 - Testcase1 -INFO - Address entered
+2021-05-18 11:31:51,752 - Testcase1 -INFO - Email entered
+2021-05-18 11:31:51,846 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 11:31:51,912 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 11:46:48,678 - Testcase1 -INFO - Edge browser started
+2021-05-18 11:46:51,437 - Testcase1 -INFO - Firstname entered
+2021-05-18 11:46:51,492 - Testcase1 -INFO - Lastname entered
+2021-05-18 11:46:51,539 - Testcase1 -INFO - Address entered
+2021-05-18 11:46:51,607 - Testcase1 -INFO - Email entered
+2021-05-18 11:46:51,685 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 11:46:51,746 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 12:01:48,548 - Testcase1 -INFO - Edge browser started
+2021-05-18 12:01:51,486 - Testcase1 -INFO - Firstname entered
+2021-05-18 12:01:51,540 - Testcase1 -INFO - Lastname entered
+2021-05-18 12:01:51,589 - Testcase1 -INFO - Address entered
+2021-05-18 12:01:51,643 - Testcase1 -INFO - Email entered
+2021-05-18 12:01:51,732 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 12:01:51,809 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 12:16:48,566 - Testcase1 -INFO - Edge browser started
+2021-05-18 12:16:51,776 - Testcase1 -INFO - Firstname entered
+2021-05-18 12:16:51,842 - Testcase1 -INFO - Lastname entered
+2021-05-18 12:16:51,892 - Testcase1 -INFO - Address entered
+2021-05-18 12:16:51,950 - Testcase1 -INFO - Email entered
+2021-05-18 12:16:52,033 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 12:16:52,095 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 12:31:48,412 - Testcase1 -INFO - Edge browser started
+2021-05-18 12:31:51,790 - Testcase1 -INFO - Firstname entered
+2021-05-18 12:31:51,852 - Testcase1 -INFO - Lastname entered
+2021-05-18 12:31:51,904 - Testcase1 -INFO - Address entered
+2021-05-18 12:31:51,958 - Testcase1 -INFO - Email entered
+2021-05-18 12:31:52,061 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 12:31:52,138 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 12:46:48,316 - Testcase1 -INFO - Edge browser started
+2021-05-18 12:46:51,147 - Testcase1 -INFO - Firstname entered
+2021-05-18 12:46:51,222 - Testcase1 -INFO - Lastname entered
+2021-05-18 12:46:51,269 - Testcase1 -INFO - Address entered
+2021-05-18 12:46:51,328 - Testcase1 -INFO - Email entered
+2021-05-18 12:46:51,416 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 12:46:51,480 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 13:01:48,431 - Testcase1 -INFO - Edge browser started
+2021-05-18 13:01:51,183 - Testcase1 -INFO - Firstname entered
+2021-05-18 13:01:51,234 - Testcase1 -INFO - Lastname entered
+2021-05-18 13:01:51,281 - Testcase1 -INFO - Address entered
+2021-05-18 13:01:51,334 - Testcase1 -INFO - Email entered
+2021-05-18 13:01:51,433 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 13:01:51,496 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 13:16:48,700 - Testcase1 -INFO - Edge browser started
+2021-05-18 13:16:51,199 - Testcase1 -INFO - Firstname entered
+2021-05-18 13:16:51,254 - Testcase1 -INFO - Lastname entered
+2021-05-18 13:16:51,303 - Testcase1 -INFO - Address entered
+2021-05-18 13:16:51,359 - Testcase1 -INFO - Email entered
+2021-05-18 13:16:51,439 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 13:16:51,499 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 13:31:48,722 - Testcase1 -INFO - Edge browser started
+2021-05-18 13:31:51,532 - Testcase1 -INFO - Firstname entered
+2021-05-18 13:31:51,591 - Testcase1 -INFO - Lastname entered
+2021-05-18 13:31:51,640 - Testcase1 -INFO - Address entered
+2021-05-18 13:31:51,696 - Testcase1 -INFO - Email entered
+2021-05-18 13:31:51,796 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 13:31:51,855 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 13:46:48,708 - Testcase1 -INFO - Edge browser started
+2021-05-18 13:46:51,514 - Testcase1 -INFO - Firstname entered
+2021-05-18 13:46:51,570 - Testcase1 -INFO - Lastname entered
+2021-05-18 13:46:51,616 - Testcase1 -INFO - Address entered
+2021-05-18 13:46:51,671 - Testcase1 -INFO - Email entered
+2021-05-18 13:46:51,758 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 13:46:51,821 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 14:01:48,590 - Testcase1 -INFO - Edge browser started
+2021-05-18 14:01:51,590 - Testcase1 -INFO - Firstname entered
+2021-05-18 14:01:51,644 - Testcase1 -INFO - Lastname entered
+2021-05-18 14:01:51,695 - Testcase1 -INFO - Address entered
+2021-05-18 14:01:51,751 - Testcase1 -INFO - Email entered
+2021-05-18 14:01:51,831 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 14:01:51,890 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 14:16:48,746 - Testcase1 -INFO - Edge browser started
+2021-05-18 14:16:51,318 - Testcase1 -INFO - Firstname entered
+2021-05-18 14:16:51,372 - Testcase1 -INFO - Lastname entered
+2021-05-18 14:16:51,422 - Testcase1 -INFO - Address entered
+2021-05-18 14:16:51,476 - Testcase1 -INFO - Email entered
+2021-05-18 14:16:51,561 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 14:16:51,645 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 14:31:48,514 - Testcase1 -INFO - Edge browser started
+2021-05-18 14:31:51,410 - Testcase1 -INFO - Firstname entered
+2021-05-18 14:31:51,464 - Testcase1 -INFO - Lastname entered
+2021-05-18 14:31:51,513 - Testcase1 -INFO - Address entered
+2021-05-18 14:31:51,572 - Testcase1 -INFO - Email entered
+2021-05-18 14:31:51,660 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 14:31:51,729 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 14:46:48,513 - Testcase1 -INFO - Edge browser started
+2021-05-18 14:46:51,057 - Testcase1 -INFO - Firstname entered
+2021-05-18 14:46:51,117 - Testcase1 -INFO - Lastname entered
+2021-05-18 14:46:51,174 - Testcase1 -INFO - Address entered
+2021-05-18 14:46:51,236 - Testcase1 -INFO - Email entered
+2021-05-18 14:46:51,330 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 14:46:51,393 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 15:01:48,544 - Testcase1 -INFO - Edge browser started
+2021-05-18 15:01:51,220 - Testcase1 -INFO - Firstname entered
+2021-05-18 15:01:51,336 - Testcase1 -INFO - Lastname entered
+2021-05-18 15:01:51,387 - Testcase1 -INFO - Address entered
+2021-05-18 15:01:51,440 - Testcase1 -INFO - Email entered
+2021-05-18 15:01:51,540 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 15:01:51,617 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 15:16:51,847 - Testcase1 -INFO - Edge browser started
+2021-05-18 15:16:54,675 - Testcase1 -INFO - Firstname entered
+2021-05-18 15:16:54,748 - Testcase1 -INFO - Lastname entered
+2021-05-18 15:16:54,800 - Testcase1 -INFO - Address entered
+2021-05-18 15:16:54,854 - Testcase1 -INFO - Email entered
+2021-05-18 15:16:54,958 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 15:16:55,011 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 15:31:48,525 - Testcase1 -INFO - Edge browser started
+2021-05-18 15:31:51,354 - Testcase1 -INFO - Firstname entered
+2021-05-18 15:31:51,433 - Testcase1 -INFO - Lastname entered
+2021-05-18 15:31:51,479 - Testcase1 -INFO - Address entered
+2021-05-18 15:31:51,532 - Testcase1 -INFO - Email entered
+2021-05-18 15:31:51,624 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 15:31:51,677 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 15:46:48,292 - Testcase1 -INFO - Edge browser started
+2021-05-18 15:46:51,263 - Testcase1 -INFO - Firstname entered
+2021-05-18 15:46:51,311 - Testcase1 -INFO - Lastname entered
+2021-05-18 15:46:51,355 - Testcase1 -INFO - Address entered
+2021-05-18 15:46:51,406 - Testcase1 -INFO - Email entered
+2021-05-18 15:46:51,503 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 15:46:51,551 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 16:01:48,421 - Testcase1 -INFO - Edge browser started
+2021-05-18 16:01:51,590 - Testcase1 -INFO - Firstname entered
+2021-05-18 16:01:51,644 - Testcase1 -INFO - Lastname entered
+2021-05-18 16:01:51,695 - Testcase1 -INFO - Address entered
+2021-05-18 16:01:51,754 - Testcase1 -INFO - Email entered
+2021-05-18 16:01:51,824 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 16:01:51,896 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 16:16:48,527 - Testcase1 -INFO - Edge browser started
+2021-05-18 16:16:51,343 - Testcase1 -INFO - Firstname entered
+2021-05-18 16:16:51,400 - Testcase1 -INFO - Lastname entered
+2021-05-18 16:16:51,449 - Testcase1 -INFO - Address entered
+2021-05-18 16:16:51,501 - Testcase1 -INFO - Email entered
+2021-05-18 16:16:51,586 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 16:16:51,647 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 16:31:48,405 - Testcase1 -INFO - Edge browser started
+2021-05-18 16:31:51,198 - Testcase1 -INFO - Firstname entered
+2021-05-18 16:31:51,250 - Testcase1 -INFO - Lastname entered
+2021-05-18 16:31:51,298 - Testcase1 -INFO - Address entered
+2021-05-18 16:31:51,350 - Testcase1 -INFO - Email entered
+2021-05-18 16:31:51,457 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 16:31:51,521 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 16:46:48,337 - Testcase1 -INFO - Edge browser started
+2021-05-18 16:46:50,973 - Testcase1 -INFO - Firstname entered
+2021-05-18 16:46:51,029 - Testcase1 -INFO - Lastname entered
+2021-05-18 16:46:51,075 - Testcase1 -INFO - Address entered
+2021-05-18 16:46:51,128 - Testcase1 -INFO - Email entered
+2021-05-18 16:46:51,215 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 16:46:51,295 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 17:01:48,767 - Testcase1 -INFO - Edge browser started
+2021-05-18 17:01:51,381 - Testcase1 -INFO - Firstname entered
+2021-05-18 17:01:51,434 - Testcase1 -INFO - Lastname entered
+2021-05-18 17:01:51,483 - Testcase1 -INFO - Address entered
+2021-05-18 17:01:51,540 - Testcase1 -INFO - Email entered
+2021-05-18 17:01:51,615 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 17:01:51,678 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 17:16:48,419 - Testcase1 -INFO - Edge browser started
+2021-05-18 17:16:51,269 - Testcase1 -INFO - Firstname entered
+2021-05-18 17:16:51,324 - Testcase1 -INFO - Lastname entered
+2021-05-18 17:16:51,370 - Testcase1 -INFO - Address entered
+2021-05-18 17:16:51,424 - Testcase1 -INFO - Email entered
+2021-05-18 17:16:51,493 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 17:16:51,584 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 17:31:48,248 - Testcase1 -INFO - Edge browser started
+2021-05-18 17:31:50,820 - Testcase1 -INFO - Firstname entered
+2021-05-18 17:31:50,874 - Testcase1 -INFO - Lastname entered
+2021-05-18 17:31:50,921 - Testcase1 -INFO - Address entered
+2021-05-18 17:31:50,974 - Testcase1 -INFO - Email entered
+2021-05-18 17:31:51,041 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 17:31:51,102 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 17:46:48,352 - Testcase1 -INFO - Edge browser started
+2021-05-18 17:46:51,173 - Testcase1 -INFO - Firstname entered
+2021-05-18 17:46:51,231 - Testcase1 -INFO - Lastname entered
+2021-05-18 17:46:51,280 - Testcase1 -INFO - Address entered
+2021-05-18 17:46:51,332 - Testcase1 -INFO - Email entered
+2021-05-18 17:46:51,418 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 17:46:51,467 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 18:38:22,381 - Testcase1 -INFO - Edge browser started
+2021-05-18 18:38:25,991 - Testcase1 -INFO - Firstname entered
+2021-05-18 18:38:26,070 - Testcase1 -INFO - Lastname entered
+2021-05-18 18:38:26,159 - Testcase1 -INFO - Address entered
+2021-05-18 18:38:26,247 - Testcase1 -INFO - Email entered
+2021-05-18 18:38:26,346 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 18:38:26,437 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 18:47:00,801 - Testcase1 -INFO - Edge browser started
+2021-05-18 18:47:05,652 - Testcase1 -INFO - Firstname entered
+2021-05-18 18:47:05,796 - Testcase1 -INFO - Lastname entered
+2021-05-18 18:47:05,928 - Testcase1 -INFO - Address entered
+2021-05-18 18:47:06,084 - Testcase1 -INFO - Email entered
+2021-05-18 18:47:06,273 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 18:47:06,407 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 19:01:51,579 - Testcase1 -INFO - Edge browser started
+2021-05-18 19:16:48,258 - Testcase1 -INFO - Edge browser started
+2021-05-18 19:16:51,148 - Testcase1 -INFO - Firstname entered
+2021-05-18 19:16:51,210 - Testcase1 -INFO - Lastname entered
+2021-05-18 19:16:51,267 - Testcase1 -INFO - Address entered
+2021-05-18 19:16:51,334 - Testcase1 -INFO - Email entered
+2021-05-18 19:16:51,406 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 19:16:51,470 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 19:31:48,284 - Testcase1 -INFO - Edge browser started
+2021-05-18 19:31:51,297 - Testcase1 -INFO - Firstname entered
+2021-05-18 19:31:51,349 - Testcase1 -INFO - Lastname entered
+2021-05-18 19:31:51,398 - Testcase1 -INFO - Address entered
+2021-05-18 19:31:51,452 - Testcase1 -INFO - Email entered
+2021-05-18 19:31:51,560 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 19:31:51,607 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 19:46:48,265 - Testcase1 -INFO - Edge browser started
+2021-05-18 19:46:50,721 - Testcase1 -INFO - Firstname entered
+2021-05-18 19:46:50,775 - Testcase1 -INFO - Lastname entered
+2021-05-18 19:46:50,824 - Testcase1 -INFO - Address entered
+2021-05-18 19:46:50,877 - Testcase1 -INFO - Email entered
+2021-05-18 19:46:50,945 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 19:46:51,020 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 20:30:48,067 - Testcase1 -INFO - Edge browser started
+2021-05-18 20:30:50,687 - Testcase1 -INFO - Firstname entered
+2021-05-18 20:30:50,746 - Testcase1 -INFO - Lastname entered
+2021-05-18 20:30:50,802 - Testcase1 -INFO - Address entered
+2021-05-18 20:30:50,865 - Testcase1 -INFO - Email entered
+2021-05-18 20:30:50,949 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 20:30:51,026 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 20:31:48,219 - Testcase1 -INFO - Edge browser started
+2021-05-18 20:31:51,360 - Testcase1 -INFO - Firstname entered
+2021-05-18 20:31:51,418 - Testcase1 -INFO - Lastname entered
+2021-05-18 20:31:51,464 - Testcase1 -INFO - Address entered
+2021-05-18 20:31:51,514 - Testcase1 -INFO - Email entered
+2021-05-18 20:31:51,583 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 20:31:51,643 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 20:46:51,173 - Testcase1 -INFO - Edge browser started
+2021-05-18 20:46:54,070 - Testcase1 -INFO - Firstname entered
+2021-05-18 20:46:54,124 - Testcase1 -INFO - Lastname entered
+2021-05-18 20:46:54,169 - Testcase1 -INFO - Address entered
+2021-05-18 20:46:54,222 - Testcase1 -INFO - Email entered
+2021-05-18 20:46:54,316 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 20:46:54,387 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 21:01:48,683 - Testcase1 -INFO - Edge browser started
+2021-05-18 21:02:33,831 - Testcase1 -INFO - Firstname entered
+2021-05-18 21:02:33,887 - Testcase1 -INFO - Lastname entered
+2021-05-18 21:02:33,936 - Testcase1 -INFO - Address entered
+2021-05-18 21:02:33,991 - Testcase1 -INFO - Email entered
+2021-05-18 21:02:34,059 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 21:02:34,136 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 21:31:48,376 - Testcase1 -INFO - Edge browser started
+2021-05-18 21:32:17,736 - Testcase1 -INFO - Firstname entered
+2021-05-18 21:32:17,789 - Testcase1 -INFO - Lastname entered
+2021-05-18 21:32:17,838 - Testcase1 -INFO - Address entered
+2021-05-18 21:32:17,894 - Testcase1 -INFO - Email entered
+2021-05-18 21:32:17,977 - Testcase1 -INFO - Screenshot taken...
+2021-05-18 21:32:18,045 - Testcase1 -INFO - Screenshot taken...
+2021-05-19 10:13:55,514 - Testcase1 -INFO - Edge browser started
+2021-05-19 10:13:55,921 - Testcase1 -INFO - Chrome browser started
+2021-05-19 11:10:57,188 - Testcase1 -INFO - Chrome browser started
+2021-05-19 11:10:59,785 - Testcase1 -INFO - Edge browser started
+2021-05-19 13:43:29,924 - Testcase1 -INFO - Edge browser started
+2021-05-19 13:44:36,898 - Testcase1 -INFO - Edge browser started
+2021-05-19 13:45:26,676 - Testcase1 -INFO - Firstname entered
+2021-05-19 13:45:42,395 - Testcase1 -INFO - Lastname entered
+2021-05-19 13:45:43,460 - Testcase1 -INFO - Address entered
+2021-05-19 13:45:44,395 - Testcase1 -INFO - Email entered
+2021-05-19 13:46:41,206 - Testcase1 -INFO - Screenshot taken...
+2021-05-19 13:46:43,331 - Testcase1 -INFO - Screenshot taken...
+2021-05-19 13:47:28,778 - Testcase1 -INFO - Edge browser started
+2021-05-19 13:47:32,910 - Testcase1 -INFO - Firstname entered
+2021-05-19 13:47:33,128 - Testcase1 -INFO - Lastname entered
+2021-05-19 13:47:33,255 - Testcase1 -INFO - Address entered
+2021-05-19 13:47:33,449 - Testcase1 -INFO - Email entered
+2021-05-19 13:47:33,720 - Testcase1 -INFO - Screenshot taken...
+2021-05-19 13:47:33,924 - Testcase1 -INFO - Screenshot taken...
+2021-05-22 23:30:08,881 - Testcase1 -INFO - Edge browser started
+2021-05-22 23:30:11,934 - Testcase1 -INFO - Firstname entered
+2021-05-22 23:30:12,052 - Testcase1 -INFO - Lastname entered
+2021-05-22 23:30:12,141 - Testcase1 -INFO - Address entered
+2021-05-22 23:30:12,240 - Testcase1 -INFO - Email entered
+2021-05-22 23:30:12,432 - Testcase1 -INFO - Screenshot taken...
+2021-05-22 23:30:12,584 - Testcase1 -INFO - Screenshot taken...
+2021-05-23 19:43:52,261 - BaseClass -INFO - Edge browser started
+2021-05-23 21:05:13,144 - TestCase3 -INFO - Correct status 200
+2021-05-23 21:07:37,932 - TestCase3 -INFO - Correct status 200
+2021-05-23 21:12:02,718 - TestCase3 -INFO - Correct status 200
+2021-05-23 21:16:11,239 - TestCase3 -INFO - Correct status 200
+2021-05-25 07:07:51,747 - TestCase3 -INFO - Correct status 200
+2021-05-25 07:09:56,538 - TestCase3 -INFO - Correct status 200{"success":true,"message":"Success","data":{"update_date_time":"2021-05-25 06:11:29","local_new_cases":2970,"local_total_cases":166484,"local_total_number_of_individuals_in_hospitals":25327,"local_deaths":1243,"local_new_deaths":33,"local_recovered":139947,"local_active_cases":26537,"global_new_cases":221510,"global_total_cases":167739058,"global_deaths":3482450,"global_new_deaths":4195,"global_recovered":148951622,"total_pcr_testing_count":3355500,"daily_pcr_testing_data":[{"date":"2020-02-18","count":"1"},{"date":"2020-02-19","count":"0"},{"date":"2020-02-20","count":"1"},{"date":"2020-02-21","count":"0"},{"date":"2020-02-22","count":"0"},{"date":"2020-02-23","count":"0"},{"date":"2020-02-24","count":"0"},{"date":"2020-02-25","count":"0"},{"date":"2020-02-26","count":"2"},{"date":"2020-02-27","count":"2"},{"date":"2020-02-28","count":"5"},{"date":"2020-02-29","count":"3"},{"date":"2020-03-01","count":"1"},{"date":"2020-03-02","count":"10"},{"date":"2020-03-03","count":"6"},{"date":"2020-03-04","count":"9"},{"date":"2020-03-05","count":"1"},{"date":"2020-03-06","count":"4"},{"date":"2020-03-07","count":"7"},{"date":"2020-03-08","count":"3"},{"date":"2020-03-09","count":"1"},{"date":"2020-03-10","count":"12"},{"date":"2020-03-11","count":"10"},{"date":"2020-03-12","count":"17"},{"date":"2020-03-13","count":"25"},{"date":"2020-03-14","count":"88"},{"date":"2020-03-15","count":"65"},{"date":"2020-03-16","count":"89"},{"date":"2020-03-17","count":"151"},{"date":"2020-03-18","count":"108"},{"date":"2020-03-19","count":"162"},{"date":"2020-03-20","count":"119"},{"date":"2020-03-21","count":"149"},{"date":"2020-03-22","count":"174"},{"date":"2020-03-23","count":"143"},{"date":"2020-03-24","count":"164"},{"date":"2020-03-25","count":"128"},{"date":"2020-03-26","count":"131"},{"date":"2020-03-27","count":"152"},{"date":"2020-03-28","count":"108"},{"date":"2020-03-29","count":"136"},{"date":"2020-03-30","count":"155"},{"date":"2020-03-31","count":"224"},{"date":"2020-04-01","count":"219"},{"date":"2020-04-02","count":"250"},{"date":"2020-04-03","count":"311"},{"date":"2020-04-04","count":"295"},{"date":"2020-04-05","count":"324"},{"date":"2020-04-06","count":"394"},{"date":"2020-04-07","count":"353"},{"date":"2020-04-08","count":"376"},{"date":"2020-04-09","count":"287"},{"date":"2020-04-10","count":"397"},{"date":"2020-04-11","count":"393"},{"date":"2020-04-12","count":"609"},{"date":"2020-04-13","count":"431"},{"date":"2020-04-14","count":"342"},{"date":"2020-04-15","count":"465"},{"date":"2020-04-16","count":"548"},{"date":"2020-04-17","count":"710"},{"date":"2020-04-18","count":"522"},{"date":"2020-04-19","count":"702"},{"date":"2020-04-20","count":"642"},{"date":"2020-04-21","count":"650"},{"date":"2020-04-22","count":"774"},{"date":"2020-04-23","count":"1141"},{"date":"2020-04-24","count":"876"},{"date":"2020-04-25","count":"816"},{"date":"2020-04-26","count":"1075"},{"date":"2020-04-27","count":"1869"},{"date":"2020-04-28","count":"1139"},{"date":"2020-04-29","count":"1545"},{"date":"2020-04-30","count":"1397"},{"date":"2020-05-01","count":"1107"},{"date":"2020-05-02","count":"1681"},{"date":"2020-05-03","count":"1636"},{"date":"2020-05-04","count":"1045"},{"date":"2020-05-05","count":"1491"},{"date":"2020-05-06","count":"1147"},{"date":"2020-05-07","count":"1553"},{"date":"2020-05-08","count":"1821"},{"date":"2020-05-09","count":"1424"},{"date":"2020-05-10","count":"1282"},{"date":"2020-05-11","count":"1057"},{"date":"2020-05-12","count":"1078"},{"date":"2020-05-13","count":"889"},{"date":"2020-05-14","count":"1489"},{"date":"2020-05-15","count":"938"},{"date":"2020-05-16","count":"1081"},{"date":"2020-05-17","count":"1254"},{"date":"2020-05-18","count":"960"},{"date":"2020-05-19","count":"1062"},{"date":"2020-05-20","count":"1108"},{"date":"2020-05-21","count":"1603"},{"date":"2020-05-22","count":"1970"},{"date":"2020-05-23","count":"1998"},{"date":"2020-05-24","count":"1742"},{"date":"2020-05-25","count":"1347"},{"date":"2020-05-26","count":"1146"},{"date":"2020-05-27","count":"1838"},{"date":"2020-05-28","count":"1713"},{"date":"2020-05-29","count":"1330"},{"date":"2020-05-30","count":"1727"},{"date":"2020-05-31","count":"1420"},{"date":"2020-06-01","count":"1066"},{"date":"2020-06-02","count":"1783"},{"date":"2020-06-03","count":"2086"},{"date":"2020-06-04","count":"1890"},{"date":"2020-06-05","count":"1816"},{"date":"2020-06-06","count":"1243"},{"date":"2020-06-07","count":"1718"},{"date":"2020-06-08","count":"1766"},{"date":"2020-06-09","count":"1579"},{"date":"2020-06-10","count":"1433"},{"date":"2020-06-11","count":"1677"},{"date":"2020-06-12","count":"1390"},{"date":"2020-06-13","count":"1165"},{"date":"2020-06-14","count":"1116"},{"date":"2020-06-15","count":"1651"},{"date":"2020-06-16","count":"1276"},{"date":"2020-06-17","count":"1381"},{"date":"2020-06-18","count":"1374"},{"date":"2020-06-19","count":"1495"},{"date":"2020-06-20","count":"827"},{"date":"2020-06-21","count":"1181"},{"date":"2020-06-22","count":"1134"},{"date":"2020-06-23","count":"1232"},{"date":"2020-06-24","count":"1349"},{"date":"2020-06-25","count":"1243"},{"date":"2020-06-26","count":"1439"},{"date":"2020-06-27","count":"1607"},{"date":"2020-06-28","count":"833"},{"date":"2020-06-29","count":"1340"},{"date":"2020-06-30","count":"1365"},{"date":"2020-07-01","count":"1296"},{"date":"2020-07-02","count":"1399"},{"date":"2020-07-03","count":"1519"},{"date":"2020-07-04","count":"852"},{"date":"2020-07-05","count":"599"},{"date":"2020-07-06","count":"1290"},{"date":"2020-07-07","count":"1610"},{"date":"2020-07-08","count":"1182"},{"date":"2020-07-09","count":"1424"},{"date":"2020-07-10","count":"1749"},{"date":"2020-07-11","count":"1341"},{"date":"2020-07-12","count":"2251"},{"date":"2020-07-13","count":"1310"},{"date":"2020-07-14","count":"2288"},{"date":"2020-07-15","count":"2470"},{"date":"2020-07-16","count":"2406"},{"date":"2020-07-17","count":"2723"},{"date":"2020-07-18","count":"1888"},{"date":"2020-07-19","count":"2184"},{"date":"2020-07-20","count":"1924"},{"date":"2020-07-21","count":"2158"},{"date":"2020-07-22","count":"1700"},{"date":"2020-07-23","count":"2012"},{"date":"2020-07-24","count":"1811"},{"date":"2020-07-25","count":"2018"},{"date":"2020-07-26","count":"1851"},{"date":"2020-07-27","count":"1126"},{"date":"2020-07-28","count":"1349"},{"date":"2020-07-29","count":"1403"},{"date":"2020-07-30","count":"1683"},{"date":"2020-07-31","count":"1600"},{"date":"2020-08-01","count":"1864"},{"date":"2020-08-02","count":"1540"},{"date":"2020-08-03","count":"1712"},{"date":"2020-08-04","count":"1395"},{"date":"2020-08-05","count":"935"},{"date":"2020-08-06","count":"1085"},{"date":"2020-08-07","count":"1069"},{"date":"2020-08-08","count":"1343"},{"date":"2020-08-09","count":"1803"},{"date":"2020-08-10","count":"1519"},{"date":"2020-08-11","count":"2909"},{"date":"2020-08-12","count":"2549"},{"date":"2020-08-13","count":"2732"},{"date":"2020-08-14","count":"2437"},{"date":"2020-08-15","count":"2839"},{"date":"2020-08-16","count":"1561"},{"date":"2020-08-17","count":"1989"},{"date":"2020-08-18","count":"3518"},{"date":"2020-08-19","count":"2247"},{"date":"2020-08-20","count":"2876"},{"date":"2020-08-21","count":"2759"},{"date":"2020-08-22","count":"2800"},{"date":"2020-08-23","count":"2690"},{"date":"2020-08-24","count":"2693"},{"date":"2020-08-25","count":"2372"},{"date":"2020-08-26","count":"2847"},{"date":"2020-08-27","count":"2853"},{"date":"2020-08-28","count":"2748"},{"date":"2020-08-29","count":"2072"},{"date":"2020-08-30","count":"2129"},{"date":"2020-08-31","count":"1941"},{"date":"2020-09-01","count":"2495"},{"date":"2020-09-02","count":"2163"},{"date":"2020-09-03","count":"2511"},{"date":"2020-09-04","count":"2389"},{"date":"2020-09-05","count":"2297"},{"date":"2020-09-06","count":"1724"},{"date":"2020-09-07","count":"1353"},{"date":"2020-09-08","count":"2128"},{"date":"2020-09-09","count":"1776"},{"date":"2020-09-10","count":"2440"},{"date":"2020-09-11","count":"2464"},{"date":"2020-09-12","count":"2050"},{"date":"2020-09-13","count":"2201"},{"date":"2020-09-14","count":"1434"},{"date":"2020-09-15","count":"2301"},{"date":"2020-09-16","count":"2600"},{"date":"2020-09-17","count":"1965"},{"date":"2020-09-18","count":"1714"},{"date":"2020-09-19","count":"2314"},{"date":"2020-09-20","count":"1112"},{"date":"2020-09-21","count":"1398"},{"date":"2020-09-22","count":"2827"},{"date":"2020-09-23","count":"1882"},{"date":"2020-09-24","count":"2555"},{"date":"2020-09-25","count":"1595"},{"date":"2020-09-26","count":"2457"},{"date":"2020-09-27","count":"1862"},{"date":"2020-09-28","count":"1398"},{"date":"2020-09-29","count":"2407"},{"date":"2020-09-30","count":"1724"},{"date":"2020-10-01","count":"1517"},{"date":"2020-10-02","count":"2114"},{"date":"2020-10-03","count":"2244"},{"date":"2020-10-04","count":"1148"},{"date":"2020-10-05","count":"1890"},{"date":"2020-10-06","count":"4880"},{"date":"2020-10-07","count":"5608"},{"date":"2020-10-08","count":"4824"},{"date":"2020-10-09","count":"7196"},{"date":"2020-10-10","count":"7495"},{"date":"2020-10-11","count":"7248"},{"date":"2020-10-12","count":"6591"},{"date":"2020-10-13","count":"6566"},{"date":"2020-10-14","count":"8789"},{"date":"2020-10-15","count":"8161"},{"date":"2020-10-16","count":"8589"},{"date":"2020-10-17","count":"9513"},{"date":"2020-10-18","count":"7099"},{"date":"2020-10-19","count":"7136"},{"date":"2020-10-20","count":"8270"},{"date":"2020-10-21","count":"8777"},{"date":"2020-10-22","count":"8089"},{"date":"2020-10-23","count":"9469"},{"date":"2020-10-24","count":"9189"},{"date":"2020-10-25","count":"8846"},{"date":"2020-10-26","count":"9619"},{"date":"2020-10-27","count":"8831"},{"date":"2020-10-28","count":"11552"},{"date":"2020-10-29","count":"9725"},{"date":"2020-10-30","count":"10173"},{"date":"2020-10-31","count":"11999"},{"date":"2020-11-01","count":"11713"},{"date":"2020-11-02","count":"9940"},{"date":"2020-11-03","count":"10655"},{"date":"2020-11-04","count":"11316"},{"date":"2020-11-05","count":"11824"},{"date":"2020-11-06","count":"11620"},{"date":"2020-11-07","count":"10632"},{"date":"2020-11-08","count":"7986"},{"date":"2020-11-09","count":"8272"},{"date":"2020-11-10","count":"10207"},{"date":"2020-11-11","count":"10111"},{"date":"2020-11-12","count":"9575"},{"date":"2020-11-13","count":"13671"},{"date":"2020-11-14","count":"11130"},{"date":"2020-11-15","count":"10713"},{"date":"2020-11-16","count":"8743"},{"date":"2020-11-17","count":"11105"},{"date":"2020-11-18","count":"10306"},{"date":"2020-11-19","count":"11398"},{"date":"2020-11-20","count":"11212"},{"date":"2020-11-21","count":"12095"},{"date":"2020-11-22","count":"10679"},{"date":"2020-11-23","count":"7467"},{"date":"2020-11-24","count":"10400"},{"date":"2020-11-25","count":"12105"},{"date":"2020-11-26","count":"13286"},{"date":"2020-11-27","count":"11936"},{"date":"2020-11-28","count":"13065"},{"date":"2020-11-29","count":"12031"},{"date":"2020-11-30","count":"7463"},{"date":"2020-12-01","count":"13423"},{"date":"2020-12-02","count":"13632"},{"date":"2020-12-03","count":"13598"},{"date":"2020-12-04","count":"13741"},{"date":"2020-12-05","count":"14125"},{"date":"2020-12-06","count":"13831"},{"date":"2020-12-07","count":"11182"},{"date":"2020-12-08","count":"14336"},{"date":"2020-12-09","count":"14416"},{"date":"2020-12-10","count":"13864"},{"date":"2020-12-11","count":"17425"},{"date":"2020-12-12","count":"15239"},{"date":"2020-12-13","count":"13479"},{"date":"2020-12-14","count":"9363"},{"date":"2020-12-15","count":"15273"},{"date":"2020-12-17","count":"14024"},{"date":"2020-12-16","count":"13178"},{"date":"2020-12-18","count":"16542"},{"date":"2020-12-19","count":"16603"},{"date":"2020-12-20","count":"10534"},{"date":"2020-12-21","count":"11672"},{"date":"2020-12-22","count":"13895"},{"date":"2020-12-23","count":"13853"},{"date":"2020-12-24","count":"14933"},{"date":"2020-12-25","count":"13516"},{"date":"2020-12-26","count":"11060"},{"date":"2020-12-27","count":"12222"},{"date":"2020-12-28","count":"8668"},{"date":"2020-12-29","count":"10564"},{"date":"2020-12-30","count":"12592"},{"date":"2020-12-31","count":"14243"},{"date":"2021-01-01","count":"14600"},{"date":"2021-01-02","count":"10719"},{"date":"2021-01-03","count":"12826"},{"date":"2021-01-04","count":"10774"},{"date":"2021-01-05","count":"12456"},{"date":"2021-01-06","count":"15041"},{"date":"2021-01-07","count":"16351"},{"date":"2021-01-08","count":"17217"},{"date":"2021-01-09","count":"16206"},{"date":"2021-01-10","count":"13224"},{"date":"2021-01-11","count":"12139"},{"date":"2021-01-12","count":"14329"},{"date":"2021-01-13","count":"14565"},{"date":"2021-01-14","count":"15146"},{"date":"2021-01-15","count":"13681"},{"date":"2021-01-16","count":"15218"},{"date":"2021-01-17","count":"14984"},{"date":"2021-01-18","count":"14294"},{"date":"2021-01-19","count":"18050"},{"date":"2021-01-20","count":"16108"},{"date":"2021-01-21","count":"19285"},{"date":"2021-01-22","count":"18515"},{"date":"2021-01-23","count":"17523"},{"date":"2021-01-24","count":"14947"},{"date":"2021-01-25","count":"16431"},{"date":"2021-01-26","count":"15259"},{"date":"2021-01-27","count":"19420"},{"date":"2021-01-28","count":"18132"},{"date":"2021-01-29","count":"16226"},{"date":"2021-01-30","count":"14316"},{"date":"2021-01-31","count":"13537"},{"date":"2021-02-01","count":"12340"},{"date":"2021-02-02","count":"13218"},{"date":"2021-02-03","count":"14860"},{"date":"2021-02-04","count":"12024"},{"date":"2021-02-05","count":"14749"},{"date":"2021-02-06","count":"15746"},{"date":"2021-02-07","count":"12145"},{"date":"2021-02-08","count":"14402"},{"date":"2021-02-09","count":"16493"},{"date":"2021-02-10","count":"19687"},{"date":"2021-02-11","count":"15543"},{"date":"2021-02-12","count":"16387"},{"date":"2021-02-13","count":"16866"},{"date":"2021-02-14","count":"15430"},{"date":"2021-02-15","count":"11895"},{"date":"2021-02-16","count":"13585"},{"date":"2021-02-17","count":"15386"},{"date":"2021-02-18","count":"15554"},{"date":"2021-02-19","count":"15909"},{"date":"2021-02-20","count":"12936"},{"date":"2021-02-21","count":"11779"},{"date":"2021-02-22","count":"11222"},{"date":"2021-02-23","count":"13714"},{"date":"2021-02-24","count":"12198"},{"date":"2021-02-25","count":"13868"},{"date":"2021-02-26","count":"12632"},{"date":"2021-02-27","count":"10421"},{"date":"2021-02-28","count":"9822"},{"date":"2021-03-01","count":"9949"},{"date":"2021-03-02","count":"10786"},{"date":"2021-03-03","count":"12883"},{"date":"2021-03-04","count":"13049"},{"date":"2021-03-05","count":"11895"},{"date":"2021-03-06","count":"11172"},{"date":"2021-03-07","count":"11809"},{"date":"2021-03-08","count":"7575"},{"date":"2021-03-09","count":"11615"},{"date":"2021-03-10","count":"12557"},{"date":"2021-03-11","count":"10819"},{"date":"2021-03-12","count":"10396"},{"date":"2021-03-13","count":"11539"},{"date":"2021-03-14","count":"8564"},{"date":"2021-03-15","count":"7154"},{"date":"2021-03-16","count":"12098"},{"date":"2021-03-17","count":"11926"},{"date":"2021-03-18","count":"11421"},{"date":"2021-03-19","count":"12101"},{"date":"2021-03-20","count":"11742"},{"date":"2021-03-21","count":"9180"},{"date":"2021-03-22","count":"8618"},{"date":"2021-03-26","count":"10956"},{"date":"2021-03-27","count":"11671"},{"date":"2021-03-23","count":"10453"},{"date":"2021-03-24","count":"11035"},{"date":"2021-03-25","count":"11580"},{"date":"2021-03-28","count":"9210"},{"date":"2021-03-29","count":"6711"},{"date":"2021-03-30","count":"11095"},{"date":"2021-04-11","count":"8684"},{"date":"2021-04-12","count":"7134"},{"date":"2021-04-13","count":"6185"},{"date":"2021-04-14","count":"5065"},{"date":"2021-04-15","count":"4024"},{"date":"2021-04-16","count":"4107"},{"date":"2021-04-17","count":"6578"},{"date":"2021-04-20","count":"8404"},{"date":"2021-04-18","count":"6811"},{"date":"2021-04-21","count":"12464"},{"date":"2021-04-23","count":"12439"},{"date":"2021-04-24","count":"16860"},{"date":"2021-04-22","count":"15268"},{"date":"2021-04-25","count":"13919"},{"date":"2021-04-26","count":"13138"},{"date":"2021-04-27","count":"13965"},{"date":"2021-04-28","count":"14365"},{"date":"2021-04-29","count":"23730"},{"date":"2021-03-31","count":"9636"},{"date":"2021-04-02","count":"11266"},{"date":"2021-04-01","count":"10767"},{"date":"2021-04-03","count":"9995"},{"date":"2021-04-04","count":"9243"},{"date":"2021-04-05","count":"8165"},{"date":"2021-04-06","count":"7099"},{"date":"2021-04-07","count":"9713"},{"date":"2021-04-08","count":"12322"},{"date":"2021-04-09","count":"9294"},{"date":"2021-04-10","count":"10123"},{"date":"2021-04-19","count":"8782"},{"date":"2021-04-30","count":"27104"},{"date":"2021-05-01","count":"25232"},{"date":"2021-05-02","count":"23631"},{"date":"2021-05-03","count":"18584"},{"date":"2021-05-04","count":"22379"},{"date":"2021-05-05","count":"26360"},{"date":"2021-05-06","count":"27889"},{"date":"2021-05-07","count":"22889"},{"date":"2021-05-08","count":"25177"},{"date":"2021-05-09","count":"23263"},{"date":"2021-05-10","count":"23808"},{"date":"2021-05-11","count":"26428"},{"date":"2021-05-12","count":"26248"},{"date":"2021-05-13","count":"26648"},{"date":"2021-05-14","count":"24451"},{"date":"2021-05-15","count":"22247"},{"date":"2021-05-16","count":"27183"},{"date":"2021-05-17","count":"26941"},{"date":"2021-05-18","count":"25590"},{"date":"2021-05-19","count":"25397"},{"date":"2021-05-20","count":"25713"},{"date":"2021-05-21","count":"25680"},{"date":"2021-05-22","count":"22824"},{"date":"2021-05-23","count":"22824"},{"date":"2021-05-24","count":"17159"}],"hospital_data":[{"id":1,"hospital_id":1,"cumulative_local":1403,"cumulative_foreign":0,"treatment_local":8,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":1403,"treatment_total":8,"hospital":{"id":1,"name":"National Institute of Infectious Diseases","name_si":"\u0db6\u0ddd\u0dc0\u0db1 \u0dbb\u0ddd\u0d9c \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d86\u0dba\u0dad\u0db1\u0dba","name_ta":"\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba8\u0bcb\u0baf\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":2,"hospital_id":2,"cumulative_local":4479,"cumulative_foreign":0,"treatment_local":155,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":4479,"treatment_total":155,"hospital":{"id":2,"name":"National Hospital Sri Lanka","name_si":"\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":3,"hospital_id":3,"cumulative_local":5100,"cumulative_foreign":0,"treatment_local":107,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":5100,"treatment_total":107,"hospital":{"id":3,"name":"TH - Ragama","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0dbb\u0dcf\u0d9c\u0db8","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bb0\u0bbe\u0b95\u0bae","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":4,"hospital_id":4,"cumulative_local":1785,"cumulative_foreign":0,"treatment_local":85,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":1785,"treatment_total":85,"hospital":{"id":4,"name":"TH - Karapitiya","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dbb\u0db4\u0dd2\u0da7\u0dd2\u0dba","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b95\u0bb0\u0bbe\u0baa\u0bbf\u0b9f\u0bbf\u0baf","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":5,"hospital_id":5,"cumulative_local":3213,"cumulative_foreign":0,"treatment_local":24,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":3213,"treatment_total":24,"hospital":{"id":5,"name":"TH - Anuradhapura","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b85\u0ba9\u0bc1\u0bb0\u0bbe\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":6,"hospital_id":6,"cumulative_local":3180,"cumulative_foreign":0,"treatment_local":98,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":3180,"treatment_total":98,"hospital":{"id":6,"name":"TH - Kurunegala","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0d9c\u0dbd","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bbe\u0b95\u0bb2\u0bcd","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":7,"hospital_id":7,"cumulative_local":657,"cumulative_foreign":0,"treatment_local":12,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":657,"treatment_total":12,"hospital":{"id":7,"name":"TH- Jaffna","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0dba\u0dcf\u0db4\u0db1\u0dba","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":8,"hospital_id":8,"cumulative_local":2410,"cumulative_foreign":0,"treatment_local":38,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2410,"treatment_total":38,"hospital":{"id":8,"name":"National Hospital Kandy","name_si":"\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb","name_ta":"\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":9,"hospital_id":9,"cumulative_local":804,"cumulative_foreign":0,"treatment_local":30,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":804,"treatment_total":30,"hospital":{"id":9,"name":"TH \u2013 Batticaloa","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0da9\u0d9a\u0dbd\u0db4\u0dd4\u0dc0","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":10,"hospital_id":10,"cumulative_local":1597,"cumulative_foreign":0,"treatment_local":63,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":1597,"treatment_total":63,"hospital":{"id":10,"name":"DGH- Gampaha","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9c\u0db8\u0dca\u0db4\u0dc4","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b95\u0bae\u0bcd\u0baa\u0bb9\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":11,"hospital_id":11,"cumulative_local":2869,"cumulative_foreign":0,"treatment_local":55,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2869,"treatment_total":55,"hospital":{"id":11,"name":"DGH \u2013 Negombo","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dd3\u0d9c\u0db8\u0dd4\u0dc0","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0ba8\u0bc0\u0bb0\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":12,"hospital_id":12,"cumulative_local":1419,"cumulative_foreign":0,"treatment_local":72,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":1419,"treatment_total":72,"hospital":{"id":12,"name":"TH \u2013 Rathnapura","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0baa\u0bc1\u0bb0\u0bbf","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":13,"hospital_id":13,"cumulative_local":826,"cumulative_foreign":0,"treatment_local":27,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":826,"treatment_total":27,"hospital":{"id":13,"name":"PGH \u2013 Badulla","name_si":"\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd","name_ta":"\u0bae\u0bbe\u0b95\u0bbe\u0ba9 \u0b85\u0bb0\u0b9a \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0baa\u0ba4\u0bc1\u0bb3\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":14,"hospital_id":14,"cumulative_local":555,"cumulative_foreign":0,"treatment_local":6,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":555,"treatment_total":6,"hospital":{"id":14,"name":"LRH","name_si":"\u0dbb\u0dd2\u0da2\u0dca\u0dc0\u0dda \u0d86\u0dbb\u0dca\u0dba\u0dcf \u0dc5\u0db8\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0bb2\u0bc7\u0b9f\u0bbf \u0bb0\u0bbf\u0b9f\u0bcd\u0b9c\u0bcd\u0bb5\u0bc7 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":15,"hospital_id":15,"cumulative_local":2797,"cumulative_foreign":0,"treatment_local":11,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2797,"treatment_total":11,"hospital":{"id":15,"name":"DMH","name_si":"\u0da9\u0dd2 \u0dc3\u0ddc\u0dba\u0dd2\u0dc3\u0dcf \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0b9f\u0bbf \u0b9a\u0bcb\u0baf\u0bcd\u0b9a\u0bbe \u0bae\u0b95\u0baa\u0bcd\u0baa\u0bc7\u0bb1\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":16,"hospital_id":16,"cumulative_local":2911,"cumulative_foreign":0,"treatment_local":14,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2911,"treatment_total":14,"hospital":{"id":16,"name":"DGH \u2013 Polonnaruwa","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0baa\u0bca\u0bb2\u0ba9\u0bcd\u0ba9\u0bb1\u0bc1\u0bb5\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":17,"hospital_id":17,"cumulative_local":2585,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2585,"treatment_total":0,"hospital":{"id":17,"name":"TH - Kalubowila","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dbd\u0dd4\u0db6\u0ddd\u0dc0\u0dd2\u0dbd","name_ta":"\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":18,"hospital_id":18,"cumulative_local":852,"cumulative_foreign":0,"treatment_local":8,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":852,"treatment_total":8,"hospital":{"id":18,"name":"Castle Street Teaching Hospital","name_si":"\u0d9a\u0dcf\u0dc3\u0dbd\u0dca \u0dc0\u0dd3\u0daf\u0dd2\u0dba\u0dda \u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0b95\u0bbe\u0b9a\u0bb2\u0bcd \u0bb5\u0bc0\u0ba4\u0bbf \u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd \u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":19,"hospital_id":19,"cumulative_local":385,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":385,"treatment_total":0,"hospital":{"id":19,"name":"Base Hospital- Hambantota","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7","name_ta":"\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8- \u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":20,"hospital_id":20,"cumulative_local":907,"cumulative_foreign":0,"treatment_local":25,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":907,"treatment_total":25,"hospital":{"id":20,"name":"Base Hospital - Monaragala","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0ddc\u0db1\u0dbb\u0dcf\u0d9c\u0dbd","name_ta":"\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8- \u0bae\u0bcb\u0ba9\u0bb0\u0bbe\u0b95\u0bb2\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":21,"hospital_id":21,"cumulative_local":69,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":69,"treatment_total":0,"hospital":{"id":21,"name":"Base Hospital - Welikanda","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0db1\u0dca\u0daf","name_ta":"\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8- \u0bb5\u0bbe\u0bb2\u0bbf\u0b95\u0ba3\u0bcd\u0b9f","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":22,"hospital_id":22,"cumulative_local":2107,"cumulative_foreign":0,"treatment_local":52,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2107,"treatment_total":52,"hospital":{"id":22,"name":"DGH-Kalutara","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dc5\u0dd4\u0dad\u0dbb","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 -\u0b95\u0bb3\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":23,"hospital_id":23,"cumulative_local":2811,"cumulative_foreign":0,"treatment_local":49,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2811,"treatment_total":49,"hospital":{"id":23,"name":"Chest Hospital Welisara","name_si":"\u0dc5\u0dba \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc0\u0dd0\u0dbd\u0dd2\u0dc3\u0dbb","name_ta":"\u0bae\u0bbe\u0bb0\u0bcd\u0baa\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 -\u0bb5\u0bc6\u0bb2\u0bbf\u0b9a\u0bb0\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":24,"hospital_id":24,"cumulative_local":353,"cumulative_foreign":0,"treatment_local":4,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":353,"treatment_total":4,"hospital":{"id":24,"name":"Base Hospital Mulleriyawa","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd  - \u0db8\u0dd4\u0dbd\u0dca\u0dbd\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0dc0","name_ta":"\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc7\u0bb0\u0bbf\u0baf\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":25,"hospital_id":25,"cumulative_local":0,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":0,"treatment_total":0,"hospital":{"id":25,"name":"Base Hospital Homagama","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd  - \u0dc4\u0ddd\u0db8\u0dcf\u0d9c\u0db8","name_ta":"\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bb9\u0bcb\u0bae\u0bbe\u0b95\u0bae","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":26,"hospital_id":26,"cumulative_local":0,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":0,"treatment_total":0,"hospital":{"id":26,"name":"Dr. Nevil Fernando Hospital","name_si":"\u0db1\u0dd9\u0dc0\u0dd2\u0dbd\u0dca \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4 \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd \u0ba8\u0bc6\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":27,"hospital_id":27,"cumulative_local":8265,"cumulative_foreign":0,"treatment_local":19,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":8265,"treatment_total":19,"hospital":{"id":27,"name":"D. G.H. Chillaw","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc4\u0dbd\u0dcf\u0dc0\u0dad","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe\u0bb5\u0bcd","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":28,"hospital_id":28,"cumulative_local":241,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":241,"treatment_total":0,"hospital":{"id":28,"name":"D.G.H. Matara","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dcf\u0dad\u0dbb","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bae\u0bbe\u0ba4\u0bbe\u0bb0\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":29,"hospital_id":29,"cumulative_local":1879,"cumulative_foreign":0,"treatment_local":183,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":1879,"treatment_total":183,"hospital":{"id":29,"name":"K.D.U. Hospital","name_si":"\u0d9a\u0ddc\u0dad\u0dbd\u0dcf\u0dc0\u0dbd \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dc0\u0dd2\u0dc1\u0dca\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bb2\u0bbe\u0bb5\u0bc6\u0bb2 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 (k.D.U)  \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":30,"hospital_id":30,"cumulative_local":391,"cumulative_foreign":0,"treatment_local":1,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":391,"treatment_total":1,"hospital":{"id":30,"name":"D.G.H. Vavunia","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc0\u0dc0\u0dd4\u0db1\u0dd2\u0dba\u0dcf\u0dc0","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":31,"hospital_id":31,"cumulative_local":850,"cumulative_foreign":0,"treatment_local":10,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":850,"treatment_total":10,"hospital":{"id":31,"name":"Base Hospital - Marawila","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dcf\u0dbb\u0dc0\u0dd2\u0dbd","name_ta":"\u0ba4\u0bb3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0bae\u0bbe\u0bb1\u0bb5\u0bbf\u0bb2","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":32,"hospital_id":32,"cumulative_local":2729,"cumulative_foreign":0,"treatment_local":230,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2729,"treatment_total":230,"hospital":{"id":32,"name":"Teaching Hospital - Sri Jayawadhanapura","name_si":"\u0daf\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0db4\u0dd4\u0dbb","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8- \u0bb8\u0bcd\u0bb0\u0bc0 \u0b9c\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9\u0baa\u0bc1\u0bb0","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":33,"hospital_id":33,"cumulative_local":0,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":0,"treatment_total":0,"hospital":{"id":33,"name":"Base Hospital - Beruwala","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db6\u0dda\u0dbb\u0dd4\u0dc0\u0dbd","name_ta":"\u0ba4\u0bb3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0baa\u0bc6\u0bb0\u0bc1\u0bb5\u0bbe\u0bb2\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":34,"hospital_id":34,"cumulative_local":0,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":0,"treatment_total":0,"hospital":{"id":34,"name":"Base Hospital \u2013 Kathankudi","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dcf\u0dad\u0db1\u0dca\u0d9a\u0dd4\u0da9\u0dd2","name_ta":"\u0ba4\u0bb3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","created_at":"2020-04-30 00:00:00","updated_at":"2020-04-30 00:00:00","deleted_at":null}},{"id":35,"hospital_id":35,"cumulative_local":0,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":0,"treatment_total":0,"hospital":{"id":35,"name":"Base Hospital \u2013 Minuwangoda","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dd2\u0db1\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0ddc\u0da9","name_ta":"\u0ba4\u0bb3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0bae\u0bbf\u0ba9\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bbe","created_at":"2020-04-30 00:00:00","updated_at":"2020-04-30 00:00:00","deleted_at":null}},{"id":36,"hospital_id":36,"cumulative_local":0,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":0,"treatment_total":0,"hospital":{"id":36,"name":"Navy Hospital","name_si":"\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-30 00:00:00","updated_at":"2020-04-30 00:00:00","deleted_at":null}}]}}
+2021-05-25 07:13:39,860 - TestCase3 -INFO - Correct status 200{"success":true,"message":"Success","data":{"update_date_time":"2021-05-25 06:11:29","local_new_cases":2970,"local_total_cases":166484,"local_total_number_of_individuals_in_hospitals":25327,"local_deaths":1243,"local_new_deaths":33,"local_recovered":139947,"local_active_cases":26537,"global_new_cases":221510,"global_total_cases":167739058,"global_deaths":3482450,"global_new_deaths":4195,"global_recovered":148951622,"total_pcr_testing_count":3355500,"daily_pcr_testing_data":[{"date":"2020-02-18","count":"1"},{"date":"2020-02-19","count":"0"},{"date":"2020-02-20","count":"1"},{"date":"2020-02-21","count":"0"},{"date":"2020-02-22","count":"0"},{"date":"2020-02-23","count":"0"},{"date":"2020-02-24","count":"0"},{"date":"2020-02-25","count":"0"},{"date":"2020-02-26","count":"2"},{"date":"2020-02-27","count":"2"},{"date":"2020-02-28","count":"5"},{"date":"2020-02-29","count":"3"},{"date":"2020-03-01","count":"1"},{"date":"2020-03-02","count":"10"},{"date":"2020-03-03","count":"6"},{"date":"2020-03-04","count":"9"},{"date":"2020-03-05","count":"1"},{"date":"2020-03-06","count":"4"},{"date":"2020-03-07","count":"7"},{"date":"2020-03-08","count":"3"},{"date":"2020-03-09","count":"1"},{"date":"2020-03-10","count":"12"},{"date":"2020-03-11","count":"10"},{"date":"2020-03-12","count":"17"},{"date":"2020-03-13","count":"25"},{"date":"2020-03-14","count":"88"},{"date":"2020-03-15","count":"65"},{"date":"2020-03-16","count":"89"},{"date":"2020-03-17","count":"151"},{"date":"2020-03-18","count":"108"},{"date":"2020-03-19","count":"162"},{"date":"2020-03-20","count":"119"},{"date":"2020-03-21","count":"149"},{"date":"2020-03-22","count":"174"},{"date":"2020-03-23","count":"143"},{"date":"2020-03-24","count":"164"},{"date":"2020-03-25","count":"128"},{"date":"2020-03-26","count":"131"},{"date":"2020-03-27","count":"152"},{"date":"2020-03-28","count":"108"},{"date":"2020-03-29","count":"136"},{"date":"2020-03-30","count":"155"},{"date":"2020-03-31","count":"224"},{"date":"2020-04-01","count":"219"},{"date":"2020-04-02","count":"250"},{"date":"2020-04-03","count":"311"},{"date":"2020-04-04","count":"295"},{"date":"2020-04-05","count":"324"},{"date":"2020-04-06","count":"394"},{"date":"2020-04-07","count":"353"},{"date":"2020-04-08","count":"376"},{"date":"2020-04-09","count":"287"},{"date":"2020-04-10","count":"397"},{"date":"2020-04-11","count":"393"},{"date":"2020-04-12","count":"609"},{"date":"2020-04-13","count":"431"},{"date":"2020-04-14","count":"342"},{"date":"2020-04-15","count":"465"},{"date":"2020-04-16","count":"548"},{"date":"2020-04-17","count":"710"},{"date":"2020-04-18","count":"522"},{"date":"2020-04-19","count":"702"},{"date":"2020-04-20","count":"642"},{"date":"2020-04-21","count":"650"},{"date":"2020-04-22","count":"774"},{"date":"2020-04-23","count":"1141"},{"date":"2020-04-24","count":"876"},{"date":"2020-04-25","count":"816"},{"date":"2020-04-26","count":"1075"},{"date":"2020-04-27","count":"1869"},{"date":"2020-04-28","count":"1139"},{"date":"2020-04-29","count":"1545"},{"date":"2020-04-30","count":"1397"},{"date":"2020-05-01","count":"1107"},{"date":"2020-05-02","count":"1681"},{"date":"2020-05-03","count":"1636"},{"date":"2020-05-04","count":"1045"},{"date":"2020-05-05","count":"1491"},{"date":"2020-05-06","count":"1147"},{"date":"2020-05-07","count":"1553"},{"date":"2020-05-08","count":"1821"},{"date":"2020-05-09","count":"1424"},{"date":"2020-05-10","count":"1282"},{"date":"2020-05-11","count":"1057"},{"date":"2020-05-12","count":"1078"},{"date":"2020-05-13","count":"889"},{"date":"2020-05-14","count":"1489"},{"date":"2020-05-15","count":"938"},{"date":"2020-05-16","count":"1081"},{"date":"2020-05-17","count":"1254"},{"date":"2020-05-18","count":"960"},{"date":"2020-05-19","count":"1062"},{"date":"2020-05-20","count":"1108"},{"date":"2020-05-21","count":"1603"},{"date":"2020-05-22","count":"1970"},{"date":"2020-05-23","count":"1998"},{"date":"2020-05-24","count":"1742"},{"date":"2020-05-25","count":"1347"},{"date":"2020-05-26","count":"1146"},{"date":"2020-05-27","count":"1838"},{"date":"2020-05-28","count":"1713"},{"date":"2020-05-29","count":"1330"},{"date":"2020-05-30","count":"1727"},{"date":"2020-05-31","count":"1420"},{"date":"2020-06-01","count":"1066"},{"date":"2020-06-02","count":"1783"},{"date":"2020-06-03","count":"2086"},{"date":"2020-06-04","count":"1890"},{"date":"2020-06-05","count":"1816"},{"date":"2020-06-06","count":"1243"},{"date":"2020-06-07","count":"1718"},{"date":"2020-06-08","count":"1766"},{"date":"2020-06-09","count":"1579"},{"date":"2020-06-10","count":"1433"},{"date":"2020-06-11","count":"1677"},{"date":"2020-06-12","count":"1390"},{"date":"2020-06-13","count":"1165"},{"date":"2020-06-14","count":"1116"},{"date":"2020-06-15","count":"1651"},{"date":"2020-06-16","count":"1276"},{"date":"2020-06-17","count":"1381"},{"date":"2020-06-18","count":"1374"},{"date":"2020-06-19","count":"1495"},{"date":"2020-06-20","count":"827"},{"date":"2020-06-21","count":"1181"},{"date":"2020-06-22","count":"1134"},{"date":"2020-06-23","count":"1232"},{"date":"2020-06-24","count":"1349"},{"date":"2020-06-25","count":"1243"},{"date":"2020-06-26","count":"1439"},{"date":"2020-06-27","count":"1607"},{"date":"2020-06-28","count":"833"},{"date":"2020-06-29","count":"1340"},{"date":"2020-06-30","count":"1365"},{"date":"2020-07-01","count":"1296"},{"date":"2020-07-02","count":"1399"},{"date":"2020-07-03","count":"1519"},{"date":"2020-07-04","count":"852"},{"date":"2020-07-05","count":"599"},{"date":"2020-07-06","count":"1290"},{"date":"2020-07-07","count":"1610"},{"date":"2020-07-08","count":"1182"},{"date":"2020-07-09","count":"1424"},{"date":"2020-07-10","count":"1749"},{"date":"2020-07-11","count":"1341"},{"date":"2020-07-12","count":"2251"},{"date":"2020-07-13","count":"1310"},{"date":"2020-07-14","count":"2288"},{"date":"2020-07-15","count":"2470"},{"date":"2020-07-16","count":"2406"},{"date":"2020-07-17","count":"2723"},{"date":"2020-07-18","count":"1888"},{"date":"2020-07-19","count":"2184"},{"date":"2020-07-20","count":"1924"},{"date":"2020-07-21","count":"2158"},{"date":"2020-07-22","count":"1700"},{"date":"2020-07-23","count":"2012"},{"date":"2020-07-24","count":"1811"},{"date":"2020-07-25","count":"2018"},{"date":"2020-07-26","count":"1851"},{"date":"2020-07-27","count":"1126"},{"date":"2020-07-28","count":"1349"},{"date":"2020-07-29","count":"1403"},{"date":"2020-07-30","count":"1683"},{"date":"2020-07-31","count":"1600"},{"date":"2020-08-01","count":"1864"},{"date":"2020-08-02","count":"1540"},{"date":"2020-08-03","count":"1712"},{"date":"2020-08-04","count":"1395"},{"date":"2020-08-05","count":"935"},{"date":"2020-08-06","count":"1085"},{"date":"2020-08-07","count":"1069"},{"date":"2020-08-08","count":"1343"},{"date":"2020-08-09","count":"1803"},{"date":"2020-08-10","count":"1519"},{"date":"2020-08-11","count":"2909"},{"date":"2020-08-12","count":"2549"},{"date":"2020-08-13","count":"2732"},{"date":"2020-08-14","count":"2437"},{"date":"2020-08-15","count":"2839"},{"date":"2020-08-16","count":"1561"},{"date":"2020-08-17","count":"1989"},{"date":"2020-08-18","count":"3518"},{"date":"2020-08-19","count":"2247"},{"date":"2020-08-20","count":"2876"},{"date":"2020-08-21","count":"2759"},{"date":"2020-08-22","count":"2800"},{"date":"2020-08-23","count":"2690"},{"date":"2020-08-24","count":"2693"},{"date":"2020-08-25","count":"2372"},{"date":"2020-08-26","count":"2847"},{"date":"2020-08-27","count":"2853"},{"date":"2020-08-28","count":"2748"},{"date":"2020-08-29","count":"2072"},{"date":"2020-08-30","count":"2129"},{"date":"2020-08-31","count":"1941"},{"date":"2020-09-01","count":"2495"},{"date":"2020-09-02","count":"2163"},{"date":"2020-09-03","count":"2511"},{"date":"2020-09-04","count":"2389"},{"date":"2020-09-05","count":"2297"},{"date":"2020-09-06","count":"1724"},{"date":"2020-09-07","count":"1353"},{"date":"2020-09-08","count":"2128"},{"date":"2020-09-09","count":"1776"},{"date":"2020-09-10","count":"2440"},{"date":"2020-09-11","count":"2464"},{"date":"2020-09-12","count":"2050"},{"date":"2020-09-13","count":"2201"},{"date":"2020-09-14","count":"1434"},{"date":"2020-09-15","count":"2301"},{"date":"2020-09-16","count":"2600"},{"date":"2020-09-17","count":"1965"},{"date":"2020-09-18","count":"1714"},{"date":"2020-09-19","count":"2314"},{"date":"2020-09-20","count":"1112"},{"date":"2020-09-21","count":"1398"},{"date":"2020-09-22","count":"2827"},{"date":"2020-09-23","count":"1882"},{"date":"2020-09-24","count":"2555"},{"date":"2020-09-25","count":"1595"},{"date":"2020-09-26","count":"2457"},{"date":"2020-09-27","count":"1862"},{"date":"2020-09-28","count":"1398"},{"date":"2020-09-29","count":"2407"},{"date":"2020-09-30","count":"1724"},{"date":"2020-10-01","count":"1517"},{"date":"2020-10-02","count":"2114"},{"date":"2020-10-03","count":"2244"},{"date":"2020-10-04","count":"1148"},{"date":"2020-10-05","count":"1890"},{"date":"2020-10-06","count":"4880"},{"date":"2020-10-07","count":"5608"},{"date":"2020-10-08","count":"4824"},{"date":"2020-10-09","count":"7196"},{"date":"2020-10-10","count":"7495"},{"date":"2020-10-11","count":"7248"},{"date":"2020-10-12","count":"6591"},{"date":"2020-10-13","count":"6566"},{"date":"2020-10-14","count":"8789"},{"date":"2020-10-15","count":"8161"},{"date":"2020-10-16","count":"8589"},{"date":"2020-10-17","count":"9513"},{"date":"2020-10-18","count":"7099"},{"date":"2020-10-19","count":"7136"},{"date":"2020-10-20","count":"8270"},{"date":"2020-10-21","count":"8777"},{"date":"2020-10-22","count":"8089"},{"date":"2020-10-23","count":"9469"},{"date":"2020-10-24","count":"9189"},{"date":"2020-10-25","count":"8846"},{"date":"2020-10-26","count":"9619"},{"date":"2020-10-27","count":"8831"},{"date":"2020-10-28","count":"11552"},{"date":"2020-10-29","count":"9725"},{"date":"2020-10-30","count":"10173"},{"date":"2020-10-31","count":"11999"},{"date":"2020-11-01","count":"11713"},{"date":"2020-11-02","count":"9940"},{"date":"2020-11-03","count":"10655"},{"date":"2020-11-04","count":"11316"},{"date":"2020-11-05","count":"11824"},{"date":"2020-11-06","count":"11620"},{"date":"2020-11-07","count":"10632"},{"date":"2020-11-08","count":"7986"},{"date":"2020-11-09","count":"8272"},{"date":"2020-11-10","count":"10207"},{"date":"2020-11-11","count":"10111"},{"date":"2020-11-12","count":"9575"},{"date":"2020-11-13","count":"13671"},{"date":"2020-11-14","count":"11130"},{"date":"2020-11-15","count":"10713"},{"date":"2020-11-16","count":"8743"},{"date":"2020-11-17","count":"11105"},{"date":"2020-11-18","count":"10306"},{"date":"2020-11-19","count":"11398"},{"date":"2020-11-20","count":"11212"},{"date":"2020-11-21","count":"12095"},{"date":"2020-11-22","count":"10679"},{"date":"2020-11-23","count":"7467"},{"date":"2020-11-24","count":"10400"},{"date":"2020-11-25","count":"12105"},{"date":"2020-11-26","count":"13286"},{"date":"2020-11-27","count":"11936"},{"date":"2020-11-28","count":"13065"},{"date":"2020-11-29","count":"12031"},{"date":"2020-11-30","count":"7463"},{"date":"2020-12-01","count":"13423"},{"date":"2020-12-02","count":"13632"},{"date":"2020-12-03","count":"13598"},{"date":"2020-12-04","count":"13741"},{"date":"2020-12-05","count":"14125"},{"date":"2020-12-06","count":"13831"},{"date":"2020-12-07","count":"11182"},{"date":"2020-12-08","count":"14336"},{"date":"2020-12-09","count":"14416"},{"date":"2020-12-10","count":"13864"},{"date":"2020-12-11","count":"17425"},{"date":"2020-12-12","count":"15239"},{"date":"2020-12-13","count":"13479"},{"date":"2020-12-14","count":"9363"},{"date":"2020-12-15","count":"15273"},{"date":"2020-12-17","count":"14024"},{"date":"2020-12-16","count":"13178"},{"date":"2020-12-18","count":"16542"},{"date":"2020-12-19","count":"16603"},{"date":"2020-12-20","count":"10534"},{"date":"2020-12-21","count":"11672"},{"date":"2020-12-22","count":"13895"},{"date":"2020-12-23","count":"13853"},{"date":"2020-12-24","count":"14933"},{"date":"2020-12-25","count":"13516"},{"date":"2020-12-26","count":"11060"},{"date":"2020-12-27","count":"12222"},{"date":"2020-12-28","count":"8668"},{"date":"2020-12-29","count":"10564"},{"date":"2020-12-30","count":"12592"},{"date":"2020-12-31","count":"14243"},{"date":"2021-01-01","count":"14600"},{"date":"2021-01-02","count":"10719"},{"date":"2021-01-03","count":"12826"},{"date":"2021-01-04","count":"10774"},{"date":"2021-01-05","count":"12456"},{"date":"2021-01-06","count":"15041"},{"date":"2021-01-07","count":"16351"},{"date":"2021-01-08","count":"17217"},{"date":"2021-01-09","count":"16206"},{"date":"2021-01-10","count":"13224"},{"date":"2021-01-11","count":"12139"},{"date":"2021-01-12","count":"14329"},{"date":"2021-01-13","count":"14565"},{"date":"2021-01-14","count":"15146"},{"date":"2021-01-15","count":"13681"},{"date":"2021-01-16","count":"15218"},{"date":"2021-01-17","count":"14984"},{"date":"2021-01-18","count":"14294"},{"date":"2021-01-19","count":"18050"},{"date":"2021-01-20","count":"16108"},{"date":"2021-01-21","count":"19285"},{"date":"2021-01-22","count":"18515"},{"date":"2021-01-23","count":"17523"},{"date":"2021-01-24","count":"14947"},{"date":"2021-01-25","count":"16431"},{"date":"2021-01-26","count":"15259"},{"date":"2021-01-27","count":"19420"},{"date":"2021-01-28","count":"18132"},{"date":"2021-01-29","count":"16226"},{"date":"2021-01-30","count":"14316"},{"date":"2021-01-31","count":"13537"},{"date":"2021-02-01","count":"12340"},{"date":"2021-02-02","count":"13218"},{"date":"2021-02-03","count":"14860"},{"date":"2021-02-04","count":"12024"},{"date":"2021-02-05","count":"14749"},{"date":"2021-02-06","count":"15746"},{"date":"2021-02-07","count":"12145"},{"date":"2021-02-08","count":"14402"},{"date":"2021-02-09","count":"16493"},{"date":"2021-02-10","count":"19687"},{"date":"2021-02-11","count":"15543"},{"date":"2021-02-12","count":"16387"},{"date":"2021-02-13","count":"16866"},{"date":"2021-02-14","count":"15430"},{"date":"2021-02-15","count":"11895"},{"date":"2021-02-16","count":"13585"},{"date":"2021-02-17","count":"15386"},{"date":"2021-02-18","count":"15554"},{"date":"2021-02-19","count":"15909"},{"date":"2021-02-20","count":"12936"},{"date":"2021-02-21","count":"11779"},{"date":"2021-02-22","count":"11222"},{"date":"2021-02-23","count":"13714"},{"date":"2021-02-24","count":"12198"},{"date":"2021-02-25","count":"13868"},{"date":"2021-02-26","count":"12632"},{"date":"2021-02-27","count":"10421"},{"date":"2021-02-28","count":"9822"},{"date":"2021-03-01","count":"9949"},{"date":"2021-03-02","count":"10786"},{"date":"2021-03-03","count":"12883"},{"date":"2021-03-04","count":"13049"},{"date":"2021-03-05","count":"11895"},{"date":"2021-03-06","count":"11172"},{"date":"2021-03-07","count":"11809"},{"date":"2021-03-08","count":"7575"},{"date":"2021-03-09","count":"11615"},{"date":"2021-03-10","count":"12557"},{"date":"2021-03-11","count":"10819"},{"date":"2021-03-12","count":"10396"},{"date":"2021-03-13","count":"11539"},{"date":"2021-03-14","count":"8564"},{"date":"2021-03-15","count":"7154"},{"date":"2021-03-16","count":"12098"},{"date":"2021-03-17","count":"11926"},{"date":"2021-03-18","count":"11421"},{"date":"2021-03-19","count":"12101"},{"date":"2021-03-20","count":"11742"},{"date":"2021-03-21","count":"9180"},{"date":"2021-03-22","count":"8618"},{"date":"2021-03-26","count":"10956"},{"date":"2021-03-27","count":"11671"},{"date":"2021-03-23","count":"10453"},{"date":"2021-03-24","count":"11035"},{"date":"2021-03-25","count":"11580"},{"date":"2021-03-28","count":"9210"},{"date":"2021-03-29","count":"6711"},{"date":"2021-03-30","count":"11095"},{"date":"2021-04-11","count":"8684"},{"date":"2021-04-12","count":"7134"},{"date":"2021-04-13","count":"6185"},{"date":"2021-04-14","count":"5065"},{"date":"2021-04-15","count":"4024"},{"date":"2021-04-16","count":"4107"},{"date":"2021-04-17","count":"6578"},{"date":"2021-04-20","count":"8404"},{"date":"2021-04-18","count":"6811"},{"date":"2021-04-21","count":"12464"},{"date":"2021-04-23","count":"12439"},{"date":"2021-04-24","count":"16860"},{"date":"2021-04-22","count":"15268"},{"date":"2021-04-25","count":"13919"},{"date":"2021-04-26","count":"13138"},{"date":"2021-04-27","count":"13965"},{"date":"2021-04-28","count":"14365"},{"date":"2021-04-29","count":"23730"},{"date":"2021-03-31","count":"9636"},{"date":"2021-04-02","count":"11266"},{"date":"2021-04-01","count":"10767"},{"date":"2021-04-03","count":"9995"},{"date":"2021-04-04","count":"9243"},{"date":"2021-04-05","count":"8165"},{"date":"2021-04-06","count":"7099"},{"date":"2021-04-07","count":"9713"},{"date":"2021-04-08","count":"12322"},{"date":"2021-04-09","count":"9294"},{"date":"2021-04-10","count":"10123"},{"date":"2021-04-19","count":"8782"},{"date":"2021-04-30","count":"27104"},{"date":"2021-05-01","count":"25232"},{"date":"2021-05-02","count":"23631"},{"date":"2021-05-03","count":"18584"},{"date":"2021-05-04","count":"22379"},{"date":"2021-05-05","count":"26360"},{"date":"2021-05-06","count":"27889"},{"date":"2021-05-07","count":"22889"},{"date":"2021-05-08","count":"25177"},{"date":"2021-05-09","count":"23263"},{"date":"2021-05-10","count":"23808"},{"date":"2021-05-11","count":"26428"},{"date":"2021-05-12","count":"26248"},{"date":"2021-05-13","count":"26648"},{"date":"2021-05-14","count":"24451"},{"date":"2021-05-15","count":"22247"},{"date":"2021-05-16","count":"27183"},{"date":"2021-05-17","count":"26941"},{"date":"2021-05-18","count":"25590"},{"date":"2021-05-19","count":"25397"},{"date":"2021-05-20","count":"25713"},{"date":"2021-05-21","count":"25680"},{"date":"2021-05-22","count":"22824"},{"date":"2021-05-23","count":"22824"},{"date":"2021-05-24","count":"17159"}],"hospital_data":[{"id":1,"hospital_id":1,"cumulative_local":1403,"cumulative_foreign":0,"treatment_local":8,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":1403,"treatment_total":8,"hospital":{"id":1,"name":"National Institute of Infectious Diseases","name_si":"\u0db6\u0ddd\u0dc0\u0db1 \u0dbb\u0ddd\u0d9c \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d86\u0dba\u0dad\u0db1\u0dba","name_ta":"\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba8\u0bcb\u0baf\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":2,"hospital_id":2,"cumulative_local":4479,"cumulative_foreign":0,"treatment_local":155,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":4479,"treatment_total":155,"hospital":{"id":2,"name":"National Hospital Sri Lanka","name_si":"\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":3,"hospital_id":3,"cumulative_local":5100,"cumulative_foreign":0,"treatment_local":107,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":5100,"treatment_total":107,"hospital":{"id":3,"name":"TH - Ragama","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0dbb\u0dcf\u0d9c\u0db8","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bb0\u0bbe\u0b95\u0bae","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":4,"hospital_id":4,"cumulative_local":1785,"cumulative_foreign":0,"treatment_local":85,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":1785,"treatment_total":85,"hospital":{"id":4,"name":"TH - Karapitiya","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dbb\u0db4\u0dd2\u0da7\u0dd2\u0dba","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b95\u0bb0\u0bbe\u0baa\u0bbf\u0b9f\u0bbf\u0baf","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":5,"hospital_id":5,"cumulative_local":3213,"cumulative_foreign":0,"treatment_local":24,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":3213,"treatment_total":24,"hospital":{"id":5,"name":"TH - Anuradhapura","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b85\u0ba9\u0bc1\u0bb0\u0bbe\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":6,"hospital_id":6,"cumulative_local":3180,"cumulative_foreign":0,"treatment_local":98,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":3180,"treatment_total":98,"hospital":{"id":6,"name":"TH - Kurunegala","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0d9c\u0dbd","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bbe\u0b95\u0bb2\u0bcd","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":7,"hospital_id":7,"cumulative_local":657,"cumulative_foreign":0,"treatment_local":12,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":657,"treatment_total":12,"hospital":{"id":7,"name":"TH- Jaffna","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0dba\u0dcf\u0db4\u0db1\u0dba","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":8,"hospital_id":8,"cumulative_local":2410,"cumulative_foreign":0,"treatment_local":38,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2410,"treatment_total":38,"hospital":{"id":8,"name":"National Hospital Kandy","name_si":"\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb","name_ta":"\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":9,"hospital_id":9,"cumulative_local":804,"cumulative_foreign":0,"treatment_local":30,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":804,"treatment_total":30,"hospital":{"id":9,"name":"TH \u2013 Batticaloa","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0da9\u0d9a\u0dbd\u0db4\u0dd4\u0dc0","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":10,"hospital_id":10,"cumulative_local":1597,"cumulative_foreign":0,"treatment_local":63,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":1597,"treatment_total":63,"hospital":{"id":10,"name":"DGH- Gampaha","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9c\u0db8\u0dca\u0db4\u0dc4","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b95\u0bae\u0bcd\u0baa\u0bb9\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":11,"hospital_id":11,"cumulative_local":2869,"cumulative_foreign":0,"treatment_local":55,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2869,"treatment_total":55,"hospital":{"id":11,"name":"DGH \u2013 Negombo","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dd3\u0d9c\u0db8\u0dd4\u0dc0","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0ba8\u0bc0\u0bb0\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":12,"hospital_id":12,"cumulative_local":1419,"cumulative_foreign":0,"treatment_local":72,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":1419,"treatment_total":72,"hospital":{"id":12,"name":"TH \u2013 Rathnapura","name_si":"\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0baa\u0bc1\u0bb0\u0bbf","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":13,"hospital_id":13,"cumulative_local":826,"cumulative_foreign":0,"treatment_local":27,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":826,"treatment_total":27,"hospital":{"id":13,"name":"PGH \u2013 Badulla","name_si":"\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd","name_ta":"\u0bae\u0bbe\u0b95\u0bbe\u0ba9 \u0b85\u0bb0\u0b9a \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0baa\u0ba4\u0bc1\u0bb3\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":14,"hospital_id":14,"cumulative_local":555,"cumulative_foreign":0,"treatment_local":6,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":555,"treatment_total":6,"hospital":{"id":14,"name":"LRH","name_si":"\u0dbb\u0dd2\u0da2\u0dca\u0dc0\u0dda \u0d86\u0dbb\u0dca\u0dba\u0dcf \u0dc5\u0db8\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0bb2\u0bc7\u0b9f\u0bbf \u0bb0\u0bbf\u0b9f\u0bcd\u0b9c\u0bcd\u0bb5\u0bc7 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":15,"hospital_id":15,"cumulative_local":2797,"cumulative_foreign":0,"treatment_local":11,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2797,"treatment_total":11,"hospital":{"id":15,"name":"DMH","name_si":"\u0da9\u0dd2 \u0dc3\u0ddc\u0dba\u0dd2\u0dc3\u0dcf \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0b9f\u0bbf \u0b9a\u0bcb\u0baf\u0bcd\u0b9a\u0bbe \u0bae\u0b95\u0baa\u0bcd\u0baa\u0bc7\u0bb1\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":16,"hospital_id":16,"cumulative_local":2911,"cumulative_foreign":0,"treatment_local":14,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2911,"treatment_total":14,"hospital":{"id":16,"name":"DGH \u2013 Polonnaruwa","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0baa\u0bca\u0bb2\u0ba9\u0bcd\u0ba9\u0bb1\u0bc1\u0bb5\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":17,"hospital_id":17,"cumulative_local":2585,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2585,"treatment_total":0,"hospital":{"id":17,"name":"TH - Kalubowila","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dbd\u0dd4\u0db6\u0ddd\u0dc0\u0dd2\u0dbd","name_ta":"\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":18,"hospital_id":18,"cumulative_local":852,"cumulative_foreign":0,"treatment_local":8,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":852,"treatment_total":8,"hospital":{"id":18,"name":"Castle Street Teaching Hospital","name_si":"\u0d9a\u0dcf\u0dc3\u0dbd\u0dca \u0dc0\u0dd3\u0daf\u0dd2\u0dba\u0dda \u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0b95\u0bbe\u0b9a\u0bb2\u0bcd \u0bb5\u0bc0\u0ba4\u0bbf \u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd \u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":19,"hospital_id":19,"cumulative_local":385,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":385,"treatment_total":0,"hospital":{"id":19,"name":"Base Hospital- Hambantota","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7","name_ta":"\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8- \u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":20,"hospital_id":20,"cumulative_local":907,"cumulative_foreign":0,"treatment_local":25,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":907,"treatment_total":25,"hospital":{"id":20,"name":"Base Hospital - Monaragala","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0ddc\u0db1\u0dbb\u0dcf\u0d9c\u0dbd","name_ta":"\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8- \u0bae\u0bcb\u0ba9\u0bb0\u0bbe\u0b95\u0bb2\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":21,"hospital_id":21,"cumulative_local":69,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":69,"treatment_total":0,"hospital":{"id":21,"name":"Base Hospital - Welikanda","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0db1\u0dca\u0daf","name_ta":"\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8- \u0bb5\u0bbe\u0bb2\u0bbf\u0b95\u0ba3\u0bcd\u0b9f","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":22,"hospital_id":22,"cumulative_local":2107,"cumulative_foreign":0,"treatment_local":52,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2107,"treatment_total":52,"hospital":{"id":22,"name":"DGH-Kalutara","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dc5\u0dd4\u0dad\u0dbb","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 -\u0b95\u0bb3\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":23,"hospital_id":23,"cumulative_local":2811,"cumulative_foreign":0,"treatment_local":49,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2811,"treatment_total":49,"hospital":{"id":23,"name":"Chest Hospital Welisara","name_si":"\u0dc5\u0dba \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc0\u0dd0\u0dbd\u0dd2\u0dc3\u0dbb","name_ta":"\u0bae\u0bbe\u0bb0\u0bcd\u0baa\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 -\u0bb5\u0bc6\u0bb2\u0bbf\u0b9a\u0bb0\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":24,"hospital_id":24,"cumulative_local":353,"cumulative_foreign":0,"treatment_local":4,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":353,"treatment_total":4,"hospital":{"id":24,"name":"Base Hospital Mulleriyawa","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd  - \u0db8\u0dd4\u0dbd\u0dca\u0dbd\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0dc0","name_ta":"\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc7\u0bb0\u0bbf\u0baf\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":25,"hospital_id":25,"cumulative_local":0,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":0,"treatment_total":0,"hospital":{"id":25,"name":"Base Hospital Homagama","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd  - \u0dc4\u0ddd\u0db8\u0dcf\u0d9c\u0db8","name_ta":"\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bb9\u0bcb\u0bae\u0bbe\u0b95\u0bae","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":26,"hospital_id":26,"cumulative_local":0,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":0,"treatment_total":0,"hospital":{"id":26,"name":"Dr. Nevil Fernando Hospital","name_si":"\u0db1\u0dd9\u0dc0\u0dd2\u0dbd\u0dca \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4 \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd \u0ba8\u0bc6\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":27,"hospital_id":27,"cumulative_local":8265,"cumulative_foreign":0,"treatment_local":19,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":8265,"treatment_total":19,"hospital":{"id":27,"name":"D. G.H. Chillaw","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc4\u0dbd\u0dcf\u0dc0\u0dad","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe\u0bb5\u0bcd","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":28,"hospital_id":28,"cumulative_local":241,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":241,"treatment_total":0,"hospital":{"id":28,"name":"D.G.H. Matara","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dcf\u0dad\u0dbb","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bae\u0bbe\u0ba4\u0bbe\u0bb0\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":29,"hospital_id":29,"cumulative_local":1879,"cumulative_foreign":0,"treatment_local":183,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":1879,"treatment_total":183,"hospital":{"id":29,"name":"K.D.U. Hospital","name_si":"\u0d9a\u0ddc\u0dad\u0dbd\u0dcf\u0dc0\u0dbd \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dc0\u0dd2\u0dc1\u0dca\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bb2\u0bbe\u0bb5\u0bc6\u0bb2 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 (k.D.U)  \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":30,"hospital_id":30,"cumulative_local":391,"cumulative_foreign":0,"treatment_local":1,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":391,"treatment_total":1,"hospital":{"id":30,"name":"D.G.H. Vavunia","name_si":"\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc0\u0dc0\u0dd4\u0db1\u0dd2\u0dba\u0dcf\u0dc0","name_ta":"\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":31,"hospital_id":31,"cumulative_local":850,"cumulative_foreign":0,"treatment_local":10,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":850,"treatment_total":10,"hospital":{"id":31,"name":"Base Hospital - Marawila","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dcf\u0dbb\u0dc0\u0dd2\u0dbd","name_ta":"\u0ba4\u0bb3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0bae\u0bbe\u0bb1\u0bb5\u0bbf\u0bb2","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":32,"hospital_id":32,"cumulative_local":2729,"cumulative_foreign":0,"treatment_local":230,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":2729,"treatment_total":230,"hospital":{"id":32,"name":"Teaching Hospital - Sri Jayawadhanapura","name_si":"\u0daf\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0db4\u0dd4\u0dbb","name_ta":"\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8- \u0bb8\u0bcd\u0bb0\u0bc0 \u0b9c\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9\u0baa\u0bc1\u0bb0","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":33,"hospital_id":33,"cumulative_local":0,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":0,"treatment_total":0,"hospital":{"id":33,"name":"Base Hospital - Beruwala","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db6\u0dda\u0dbb\u0dd4\u0dc0\u0dbd","name_ta":"\u0ba4\u0bb3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0baa\u0bc6\u0bb0\u0bc1\u0bb5\u0bbe\u0bb2\u0bbe","created_at":"2020-04-11 08:45:06","updated_at":"2020-04-11 08:45:06","deleted_at":null}},{"id":34,"hospital_id":34,"cumulative_local":0,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":0,"treatment_total":0,"hospital":{"id":34,"name":"Base Hospital \u2013 Kathankudi","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dcf\u0dad\u0db1\u0dca\u0d9a\u0dd4\u0da9\u0dd2","name_ta":"\u0ba4\u0bb3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","created_at":"2020-04-30 00:00:00","updated_at":"2020-04-30 00:00:00","deleted_at":null}},{"id":35,"hospital_id":35,"cumulative_local":0,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":0,"treatment_total":0,"hospital":{"id":35,"name":"Base Hospital \u2013 Minuwangoda","name_si":"\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dd2\u0db1\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0ddc\u0da9","name_ta":"\u0ba4\u0bb3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0bae\u0bbf\u0ba9\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bbe","created_at":"2020-04-30 00:00:00","updated_at":"2020-04-30 00:00:00","deleted_at":null}},{"id":36,"hospital_id":36,"cumulative_local":0,"cumulative_foreign":0,"treatment_local":0,"treatment_foreign":0,"created_at":"2021-05-15 13:16:04","updated_at":null,"deleted_at":null,"cumulative_total":0,"treatment_total":0,"hospital":{"id":36,"name":"Navy Hospital","name_si":"\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd","name_ta":"\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8","created_at":"2020-04-30 00:00:00","updated_at":"2020-04-30 00:00:00","deleted_at":null}}]}}
+2021-05-25 07:14:08,286 - TestCase3 -INFO - Correct status 200io.restassured.internal.RestAssuredResponseImpl@49ec6a9f
+2021-05-25 07:16:19,138 - TestCase3 -INFO - Correct status 200io.restassured.internal.RestAssuredResponseImpl@10fda3d0
+2021-05-25 07:16:44,758 - TestCase3 -INFO - Correct status 200{"message":"Error Occured! Page Not found, contact rstapi2example@gmail.com"}
+2021-05-25 07:31:55,131 - TestCase3 -INFO - Correct status 200{"message":"Error Occured! Page Not found, contact rstapi2example@gmail.com"}
+2021-05-25 10:57:06,786 - TestCase3 -INFO - Correct status 200{}
+2021-05-25 10:58:22,611 - TestCase3 -INFO - Correct status 200[
+  {
+    "id": 1,
+    "fname": "Lakshan",
+    "lname": "Madushange"
+  },
+  {
+    "id": 2,
+    "fname": "Saman",
+    "lname": "Rajapaske"
+  },
+  {
+    "id": 3,
+    "fname": "Srikanth",
+    "lname": "Sathinathan"
+  }
+]
+2021-05-25 11:30:38,424 - TestCase3 -INFO - Correct status 200[
+  {
+    "id": 1,
+    "fname": "Lakshan",
+    "lname": "Madushange"
+  },
+  {
+    "id": 2,
+    "fname": "Saman",
+    "lname": "Rajapaske"
+  },
+  {
+    "id": 3,
+    "fname": "Srikanth",
+    "lname": "Sathinathan"
+  }
+]
+2021-05-25 11:31:24,680 - TestCase3 -INFO - Correct status 200[
+  {
+    "id": 1,
+    "fname": "Lakshan",
+    "lname": "Madushange"
+  },
+  {
+    "id": 2,
+    "fname": "Saman",
+    "lname": "Rajapaske"
+  },
+  {
+    "id": 3,
+    "fname": "Srikanth",
+    "lname": "Sathinathan"
+  },
+  {
+    "": "4",
+    "fname": "Chanuka",
+    "lname": "Disanayake",
+    "id": "4"
+  }
+]
+2021-05-25 11:37:09,237 - TestCase3 -INFO - Correct status 200[
+  {
+    "id": 1,
+    "fname": "Lakshan",
+    "lname": "Madushange"
+  },
+  {
+    "id": 2,
+    "fname": "Saman",
+    "lname": "Rajapaske"
+  },
+  {
+    "id": 3,
+    "fname": "Srikanth",
+    "lname": "Sathinathan"
+  },
+  {
+    "": "4",
+    "fname": "Nimal",
+    "lname": "Karunarathne",
+    "id": "4"
+  }
+]
+2021-05-26 13:21:41,379 - BaseClass -INFO - Firefox browser started
+2021-05-26 13:21:52,299 - TestCase1 -INFO - Firstname entered
+2021-05-26 13:21:52,438 - TestCase1 -INFO - Lastname entered
+2021-05-26 13:21:52,537 - TestCase1 -INFO - Address entered
+2021-05-26 13:21:52,634 - TestCase1 -INFO - Email entered
+2021-05-26 13:21:53,139 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 13:21:53,470 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 14:10:06,553 - BaseClass -INFO - Firefox browser started
+2021-05-26 14:10:12,925 - TestCase1 -INFO - Firstname entered
+2021-05-26 14:10:13,071 - TestCase1 -INFO - Lastname entered
+2021-05-26 14:10:13,180 - TestCase1 -INFO - Address entered
+2021-05-26 14:10:13,370 - TestCase1 -INFO - Email entered
+2021-05-26 14:10:13,802 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 14:10:13,985 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 14:42:59,731 - BaseClass -INFO - Edge browser started
+2021-05-26 14:43:04,993 - TestCase1 -INFO - Firstname entered
+2021-05-26 14:43:05,169 - TestCase1 -INFO - Lastname entered
+2021-05-26 14:43:05,343 - TestCase1 -INFO - Address entered
+2021-05-26 14:43:05,613 - TestCase1 -INFO - Email entered
+2021-05-26 14:43:06,059 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 14:43:06,494 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:06:41,638 - BaseClass -INFO - Edge browser started
+2021-05-26 15:06:46,848 - TestCase1 -INFO - Firstname entered
+2021-05-26 15:06:46,984 - TestCase1 -INFO - Lastname entered
+2021-05-26 15:06:47,184 - TestCase1 -INFO - Address entered
+2021-05-26 15:06:47,442 - TestCase1 -INFO - Email entered
+2021-05-26 15:06:47,753 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:06:48,075 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:33:51,472 - BaseClass -INFO - Edge browser started
+2021-05-26 15:33:57,734 - TestCase1 -INFO - Firstname entered
+2021-05-26 15:33:58,091 - TestCase1 -INFO - Lastname entered
+2021-05-26 15:33:58,268 - TestCase1 -INFO - Address entered
+2021-05-26 15:33:58,484 - TestCase1 -INFO - Email entered
+2021-05-26 15:33:58,940 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:33:59,314 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:39:39,872 - BaseClass -INFO - Edge browser started
+2021-05-26 15:39:45,721 - TestCase1 -INFO - Firstname entered
+2021-05-26 15:39:45,907 - TestCase1 -INFO - Lastname entered
+2021-05-26 15:39:46,049 - TestCase1 -INFO - Address entered
+2021-05-26 15:39:46,224 - TestCase1 -INFO - Email entered
+2021-05-26 15:39:46,536 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:39:46,777 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:40:09,602 - BaseClass -INFO - Edge browser started
+2021-05-26 15:40:15,192 - TestCase1 -INFO - Firstname entered
+2021-05-26 15:40:15,411 - TestCase1 -INFO - Lastname entered
+2021-05-26 15:40:15,524 - TestCase1 -INFO - Address entered
+2021-05-26 15:40:15,651 - TestCase1 -INFO - Email entered
+2021-05-26 15:40:16,104 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:40:16,554 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:47:49,245 - BaseClass -INFO - Edge browser started
+2021-05-26 15:47:53,272 - TestCase1 -INFO - Firstname entered
+2021-05-26 15:47:53,486 - TestCase1 -INFO - Lastname entered
+2021-05-26 15:47:53,710 - TestCase1 -INFO - Address entered
+2021-05-26 15:47:53,889 - TestCase1 -INFO - Email entered
+2021-05-26 15:47:54,115 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:47:54,317 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:51:13,177 - BaseClass -INFO - Edge browser started
+2021-05-26 15:51:18,750 - TestCase1 -INFO - Firstname entered
+2021-05-26 15:51:18,969 - TestCase1 -INFO - Lastname entered
+2021-05-26 15:51:19,190 - TestCase1 -INFO - Address entered
+2021-05-26 15:51:19,457 - TestCase1 -INFO - Email entered
+2021-05-26 15:51:19,884 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:51:20,254 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:52:05,684 - BaseClass -INFO - Edge browser started
+2021-05-26 15:52:10,987 - TestCase1 -INFO - Firstname entered
+2021-05-26 15:52:11,226 - TestCase1 -INFO - Lastname entered
+2021-05-26 15:52:11,382 - TestCase1 -INFO - Address entered
+2021-05-26 15:52:11,582 - TestCase1 -INFO - Email entered
+2021-05-26 15:52:12,102 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:52:12,450 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:52:59,452 - BaseClass -INFO - Edge browser started
+2021-05-26 15:53:02,943 - TestCase1 -INFO - Firstname entered
+2021-05-26 15:53:03,188 - TestCase1 -INFO - Lastname entered
+2021-05-26 15:53:03,513 - TestCase1 -INFO - Address entered
+2021-05-26 15:53:03,896 - TestCase1 -INFO - Email entered
+2021-05-26 15:53:04,170 - TestCase1 -INFO - Screenshot taken...
+2021-05-26 15:53:04,410 - TestCase1 -INFO - Screenshot taken...
