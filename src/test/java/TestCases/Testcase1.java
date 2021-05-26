@@ -7,9 +7,6 @@ import java.util.Properties;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.PageFactory;
-import org.sikuli.script.FindFailed;
-import org.sikuli.script.Pattern;
-import org.sikuli.script.Screen;
 import org.testng.annotations.Test;
 
 import Pages.AutomationDemoPage;
@@ -41,20 +38,20 @@ public class Testcase1 extends BaseClass{
 		//automationPage.btnClick();
 		captureScreen(driver,"Screenshot1");
 		captureScreen(driver,"After Register");
-		//srikanth
+		
 		Thread.sleep(5000);
 
 
 
 	} 
 
-	@Test
-	public void test() throws FindFailed  {
-		Screen sc = new Screen();
-		Pattern open = new Pattern("C:\\Users\\ssa\\eclipse-workspace\\com.tiqri.automation\\Files\\Capture.PNG");
-
-		sc.click(open);
-
-	}
+//	@Test
+//	public void test() throws FindFailed  {
+//		Screen sc = new Screen();
+//		Pattern open = new Pattern("C:\\Users\\ssa\\eclipse-workspace\\com.tiqri.automation\\Files\\Capture.PNG");
+//
+//		sc.click(open);
+//
+//	}
 
 }
