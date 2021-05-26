@@ -41,7 +41,7 @@ public class Testcase1 extends BaseClass{
 		//automationPage.btnClick();
 		captureScreen(driver,"Screenshot1");
 		captureScreen(driver,"After Register");
-		
+		//srikanth
 		Thread.sleep(5000);
 
 
