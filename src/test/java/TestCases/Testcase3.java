@@ -14,7 +14,7 @@ import io.restassured.specification.RequestSpecification;
 public class Testcase3 {
 	Logger logger;
 
-	//@Test(priority=1)
+	//@Test
 	public void getData() {
 
 		logger = Logger.getLogger("TestCase3");
@@ -26,6 +26,7 @@ public class Testcase3 {
 		RequestSpecification httpReq = RestAssured.given();
 
 		Response response = httpReq.get("/users");
+		
 		int statusCode = response.getStatusCode();
 		String respondBody = response.getBody().asString();
 
@@ -34,12 +35,12 @@ public class Testcase3 {
 		logger.info("Correct status 200"+respondBody);
 		
 	}
-	@Test(priority=0)
+	//@Test
 	public void test_post() {
 		JSONObject rq = new JSONObject();
-		rq.put("id","4");
-		rq.put("fname", "Kumara");
-		rq.put("lname", "Saman");
+		rq.put("id","7");
+		rq.put("fname", "Kannan");
+		rq.put("lname", "Kumar");
 		
 		RestAssured.baseURI = "http://localhost:3000";
 		
@@ -50,21 +51,21 @@ public class Testcase3 {
 	//@Test
 	public void test_patch () {
 		JSONObject rq = new JSONObject();
-		rq.put("id","4");
+		rq.put("id","7");
 		rq.put("fname", "Nimal");
 		rq.put("lname", "Karunarathne");
 		
 		RestAssured.baseURI = "http://localhost:3000";
 		
-		RestAssured.given().contentType(ContentType.JSON).accept(ContentType.JSON).header("Content-Type","application/json").body(rq.toJSONString(rq)).when().patch("/users/4").then().statusCode(200);
+		RestAssured.given().contentType(ContentType.JSON).accept(ContentType.JSON).header("Content-Type","application/json").body(rq.toJSONString(rq)).when().patch("/users/7").then().statusCode(200);
 		
 	}
-	//@Test
+	@Test
 	public void test_delete() {
 		
 		RestAssured.baseURI = "http://localhost:3000";
 		RequestSpecification httpReq = RestAssured.given();
-		Response response = httpReq.delete("/users/4");
+		Response response = httpReq.delete("/users/7");
 		int statusCode = response.getStatusCode();
 		Assert.assertEquals(statusCode /* actual value */, 200 /* expected value */, "Successful deleted");
 			
