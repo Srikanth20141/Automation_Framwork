@@ -1043,3 +1043,251 @@
     "id": "Bu5DW8a"
   }
 ]
+2021-06-02 18:04:48,016 - BaseClass -INFO - Edge browser started
+2021-06-02 18:19:44,219 - BaseClass -INFO - Firefox browser started
+2021-06-02 18:21:00,314 - BaseClass -INFO - Firefox browser started
+2021-06-02 18:21:26,500 - TestCase1 -INFO - Firstname entered
+2021-06-02 18:21:26,553 - TestCase1 -INFO - Lastname entered
+2021-06-02 18:21:26,587 - TestCase1 -INFO - Address entered
+2021-06-02 18:21:26,709 - TestCase1 -INFO - Email entered
+2021-06-02 18:24:58,871 - BaseClass -INFO - Firefox browser started
+2021-06-02 18:25:03,373 - TestCase1 -INFO - Firstname entered
+2021-06-02 18:25:03,581 - TestCase1 -INFO - Lastname entered
+2021-06-02 18:25:03,655 - TestCase1 -INFO - Address entered
+2021-06-02 18:25:03,794 - TestCase1 -INFO - Email entered
+2021-06-02 18:26:11,160 - BaseClass -INFO - Chrome browser started
+2021-06-02 18:26:16,716 - TestCase1 -INFO - Firstname entered
+2021-06-02 18:26:17,202 - TestCase1 -INFO - Lastname entered
+2021-06-02 18:26:17,361 - TestCase1 -INFO - Address entered
+2021-06-02 18:26:17,533 - TestCase1 -INFO - Email entered
+2021-06-02 18:26:18,143 - TestCase1 -INFO - Screenshot taken...
+2021-06-02 18:26:18,532 - TestCase1 -INFO - Screenshot taken...
+2021-06-02 18:29:43,290 - BaseClass -INFO - Chrome browser started
+2021-06-02 18:29:48,220 - TestCase1 -INFO - Firstname entered
+2021-06-02 18:29:48,423 - TestCase1 -INFO - Lastname entered
+2021-06-02 18:29:48,536 - TestCase1 -INFO - Address entered
+2021-06-02 18:29:48,711 - TestCase1 -INFO - Email entered
+2021-06-02 18:29:49,392 - TestCase1 -INFO - Screenshot taken...
+2021-06-02 18:29:49,700 - TestCase1 -INFO - Screenshot taken...
+2021-06-02 18:40:04,661 - BaseClass -INFO - Chrome browser started
+2021-06-02 18:40:09,571 - TestCase1 -INFO - Firstname entered
+2021-06-02 18:40:09,764 - TestCase1 -INFO - Lastname entered
+2021-06-02 18:40:09,942 - TestCase1 -INFO - Address entered
+2021-06-02 18:40:10,060 - TestCase1 -INFO - Email entered
+2021-06-02 18:41:14,586 - BaseClass -INFO - Chrome browser started
+2021-06-02 18:41:19,190 - TestCase1 -INFO - Firstname entered
+2021-06-02 18:41:19,342 - TestCase1 -INFO - Lastname entered
+2021-06-02 18:41:19,535 - TestCase1 -INFO - Address entered
+2021-06-02 18:41:19,718 - TestCase1 -INFO - Email entered
+2021-06-02 18:42:55,803 - BaseClass -INFO - Chrome browser started
+2021-06-02 18:43:00,331 - TestCase1 -INFO - Firstname entered
+2021-06-02 18:43:00,590 - TestCase1 -INFO - Lastname entered
+2021-06-02 18:43:00,772 - TestCase1 -INFO - Address entered
+2021-06-02 18:43:01,019 - TestCase1 -INFO - Email entered
+2021-06-02 18:48:38,539 - BaseClass -INFO - Chrome browser started
+2021-06-02 18:48:42,471 - TestCase1 -INFO - Firstname entered
+2021-06-02 18:48:42,797 - TestCase1 -INFO - Lastname entered
+2021-06-02 18:48:43,016 - TestCase1 -INFO - Address entered
+2021-06-02 18:48:43,234 - TestCase1 -INFO - Email entered
+2021-06-02 19:34:03,522 - BaseClass -INFO - Chrome browser started
+2021-06-02 19:34:08,350 - TestCase1 -INFO - Firstname entered
+2021-06-02 19:34:08,698 - TestCase1 -INFO - Lastname entered
+2021-06-02 19:34:09,051 - TestCase1 -INFO - Address entered
+2021-06-02 19:34:09,354 - TestCase1 -INFO - Email entered
+2021-06-02 19:34:09,710 - TestCase1 -INFO - Screenshot taken...
+2021-06-02 19:34:09,994 - TestCase1 -INFO - Screenshot taken...
+2021-06-02 19:43:23,689 - BaseClass -INFO - Chrome browser started
+2021-06-02 19:43:29,582 - TestCase1 -INFO - Firstname entered
+2021-06-02 19:43:29,769 - TestCase1 -INFO - Lastname entered
+2021-06-02 19:43:29,872 - TestCase1 -INFO - Address entered
+2021-06-02 19:43:30,072 - TestCase1 -INFO - Email entered
+2021-06-02 19:43:30,518 - TestCase1 -INFO - Screenshot taken...
+2021-06-02 19:43:30,828 - TestCase1 -INFO - Screenshot taken...
+2021-06-02 20:09:58,816 - BaseClass -INFO - Chrome browser started
+2021-06-02 20:10:11,683 - TestCase1 -INFO - Firstname entered
+2021-06-02 20:10:11,752 - TestCase1 -INFO - Lastname entered
+2021-06-02 20:10:11,807 - TestCase1 -INFO - Address entered
+2021-06-02 20:13:46,461 - BaseClass -INFO - Chrome browser started
+2021-06-02 20:13:50,554 - TestCase1 -INFO - Firstname entered
+2021-06-02 20:13:50,624 - TestCase1 -INFO - Lastname entered
+2021-06-02 20:13:50,687 - TestCase1 -INFO - Address entered
+2021-06-02 20:18:02,844 - TestCase1 -INFO - Email entered--------
+2021-06-02 20:18:04,104 - TestCase1 -INFO - Screenshot taken...
+2021-06-02 20:18:05,338 - TestCase1 -INFO - Screenshot taken...
+2021-06-02 20:28:17,906 - BaseClass -INFO - Chrome browser started
+2021-06-02 20:29:02,999 - BaseClass -INFO - Chrome browser started
+2021-06-02 20:29:38,860 - TestCase1 -INFO - Firstname entered
+2021-06-02 20:29:38,940 - TestCase1 -INFO - Lastname entered
+2021-06-02 20:29:39,004 - TestCase1 -INFO - Address entered
+2021-06-02 20:29:39,804 - TestCase1 -INFO - Email entered--------
+2021-06-02 20:29:39,986 - TestCase1 -INFO - Screenshot taken...
+2021-06-02 20:29:40,126 - TestCase1 -INFO - Screenshot taken...
+2021-06-03 12:03:37,422 - BaseClass -INFO - Chrome browser started
+2021-06-03 12:03:58,079 - TestCase1 -INFO - Firstname entered
+2021-06-03 12:03:58,298 - TestCase1 -INFO - Lastname entered
+2021-06-03 12:03:58,512 - TestCase1 -INFO - Address entered
+2021-06-03 12:03:58,773 - TestCase1 -INFO - Email entered--------
+2021-06-03 12:03:59,325 - TestCase1 -INFO - Screenshot taken...
+2021-06-03 12:03:59,925 - TestCase1 -INFO - Screenshot taken...
+2021-06-03 12:10:04,570 - BaseClass -INFO - Chrome browser started
+2021-06-03 12:12:04,361 - BaseClass -INFO - Firefox browser started
+2021-06-03 12:12:55,517 - TestCase1 -INFO - Firstname entered
+2021-06-03 12:12:55,591 - TestCase1 -INFO - Lastname entered
+2021-06-03 12:12:55,747 - TestCase1 -INFO - Address entered
+2021-06-03 12:12:55,798 - TestCase1 -INFO - Email entered--------
+2021-06-03 12:12:56,227 - TestCase1 -INFO - Screenshot taken...
+2021-06-03 12:12:56,431 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 16:47:30,781 - BaseClass -INFO - Firefox browser started
+2021-06-06 16:47:34,977 - TestCase1 -INFO - Firstname entered
+2021-06-06 16:47:35,051 - TestCase1 -INFO - Lastname entered
+2021-06-06 16:47:35,121 - TestCase1 -INFO - Address entered
+2021-06-06 16:47:35,156 - TestCase1 -INFO - Email entered--------
+2021-06-06 16:47:35,331 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 16:47:35,449 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 16:59:28,441 - BaseClass -INFO - Firefox browser started
+2021-06-06 16:59:31,454 - TestCase1 -INFO - Firstname entered
+2021-06-06 16:59:31,493 - TestCase1 -INFO - Lastname entered
+2021-06-06 16:59:31,566 - TestCase1 -INFO - Address entered
+2021-06-06 16:59:31,624 - TestCase1 -INFO - Email entered--------
+2021-06-06 16:59:31,784 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 16:59:31,883 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:00:09,149 - BaseClass -INFO - Firefox browser started
+2021-06-06 17:00:12,887 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:00:12,936 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:00:12,971 - TestCase1 -INFO - Address entered
+2021-06-06 17:00:13,027 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:00:13,146 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:00:13,218 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:01:24,173 - BaseClass -INFO - Firefox browser started
+2021-06-06 17:01:27,420 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:01:27,459 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:01:27,520 - TestCase1 -INFO - Address entered
+2021-06-06 17:01:27,550 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:01:27,696 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:01:27,783 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:02:34,974 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:02:38,707 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:02:38,776 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:02:38,881 - TestCase1 -INFO - Address entered
+2021-06-06 17:02:38,955 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:02:39,207 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:02:39,368 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:04:51,240 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:04:55,223 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:04:55,354 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:04:55,430 - TestCase1 -INFO - Address entered
+2021-06-06 17:04:55,501 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:04:55,803 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:04:55,932 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:14:20,933 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:14:25,088 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:14:25,176 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:14:25,260 - TestCase1 -INFO - Address entered
+2021-06-06 17:14:25,408 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:14:25,569 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:14:25,713 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:16:32,767 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:16:36,803 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:16:36,904 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:16:36,982 - TestCase1 -INFO - Address entered
+2021-06-06 17:16:37,107 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:16:37,389 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:16:37,642 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:17:25,095 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:17:29,271 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:17:29,358 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:17:29,450 - TestCase1 -INFO - Address entered
+2021-06-06 17:17:29,530 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:17:29,749 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:17:29,928 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:19:28,386 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:19:32,394 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:19:32,470 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:19:32,555 - TestCase1 -INFO - Address entered
+2021-06-06 17:19:32,613 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:19:32,825 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:19:33,015 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:21:13,021 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:21:16,892 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:21:17,005 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:21:17,093 - TestCase1 -INFO - Address entered
+2021-06-06 17:21:17,154 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:21:17,349 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:21:17,528 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:22:25,021 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:22:29,916 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:22:30,091 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:22:30,261 - TestCase1 -INFO - Address entered
+2021-06-06 17:22:30,419 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:22:30,772 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:22:31,024 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:37:11,563 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:37:15,975 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:37:16,525 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:37:16,697 - TestCase1 -INFO - Address entered
+2021-06-06 17:37:16,830 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:37:17,106 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:37:17,380 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:41:12,361 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:41:16,851 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:41:17,068 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:41:17,204 - TestCase1 -INFO - Address entered
+2021-06-06 17:41:17,349 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:41:17,674 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:41:18,012 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:43:07,780 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:43:13,686 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:43:13,968 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:43:14,095 - TestCase1 -INFO - Address entered
+2021-06-06 17:43:14,211 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:43:14,572 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:43:14,908 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:45:22,098 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:45:27,136 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:45:27,289 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:45:27,461 - TestCase1 -INFO - Address entered
+2021-06-06 17:45:27,598 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:45:28,207 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:45:28,615 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:46:27,322 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:46:31,964 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:46:32,263 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:46:32,440 - TestCase1 -INFO - Address entered
+2021-06-06 17:46:32,552 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:46:33,153 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:46:33,680 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:48:05,569 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:48:10,909 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:48:11,074 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:48:11,305 - TestCase1 -INFO - Address entered
+2021-06-06 17:48:29,999 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:48:30,531 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:48:30,927 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:56:23,583 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:56:27,731 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:56:28,204 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:56:28,362 - TestCase1 -INFO - Address entered
+2021-06-06 17:56:28,515 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:56:28,829 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:56:29,178 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:59:03,226 - BaseClass -INFO - Chrome browser started
+2021-06-06 17:59:08,335 - TestCase1 -INFO - Firstname entered
+2021-06-06 17:59:08,507 - TestCase1 -INFO - Lastname entered
+2021-06-06 17:59:09,016 - TestCase1 -INFO - Address entered
+2021-06-06 17:59:09,122 - TestCase1 -INFO - Email entered--------
+2021-06-06 17:59:09,410 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 17:59:09,633 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 18:00:28,953 - BaseClass -INFO - Chrome browser started
+2021-06-06 18:00:33,928 - TestCase1 -INFO - Firstname entered
+2021-06-06 18:00:34,353 - TestCase1 -INFO - Lastname entered
+2021-06-06 18:00:34,498 - TestCase1 -INFO - Address entered
+2021-06-06 18:00:34,688 - TestCase1 -INFO - Email entered--------
+2021-06-06 18:00:35,067 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 18:00:35,396 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 21:25:43,253 - BaseClass -INFO - Chrome browser started
+2021-06-06 21:25:47,970 - TestCase1 -INFO - Firstname entered
+2021-06-06 21:25:48,153 - TestCase1 -INFO - Lastname entered
+2021-06-06 21:25:48,316 - TestCase1 -INFO - Address entered
+2021-06-06 21:25:48,481 - TestCase1 -INFO - Email entered--------
+2021-06-06 21:25:48,915 - TestCase1 -INFO - Screenshot taken...
+2021-06-06 21:25:49,190 - TestCase1 -INFO - Screenshot taken...

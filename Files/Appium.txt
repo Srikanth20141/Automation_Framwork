@@ -1,0 +1,2 @@
+Android SDK - https://developer.android.com/studio
+Appium - http://appium.io/ 

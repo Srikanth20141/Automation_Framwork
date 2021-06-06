@@ -1043,3 +1043,251 @@
     "id": "Bu5DW8a"
   }
 ]
+2021-06-02 18:04:48,016 [main] INFO BaseClass - Edge browser started
+2021-06-02 18:19:44,219 [main] INFO BaseClass - Firefox browser started
+2021-06-02 18:21:00,314 [main] INFO BaseClass - Firefox browser started
+2021-06-02 18:21:26,500 [main] INFO TestCase1 - Firstname entered
+2021-06-02 18:21:26,553 [main] INFO TestCase1 - Lastname entered
+2021-06-02 18:21:26,587 [main] INFO TestCase1 - Address entered
+2021-06-02 18:21:26,709 [main] INFO TestCase1 - Email entered
+2021-06-02 18:24:58,871 [main] INFO BaseClass - Firefox browser started
+2021-06-02 18:25:03,373 [main] INFO TestCase1 - Firstname entered
+2021-06-02 18:25:03,581 [main] INFO TestCase1 - Lastname entered
+2021-06-02 18:25:03,655 [main] INFO TestCase1 - Address entered
+2021-06-02 18:25:03,794 [main] INFO TestCase1 - Email entered
+2021-06-02 18:26:11,160 [main] INFO BaseClass - Chrome browser started
+2021-06-02 18:26:16,716 [main] INFO TestCase1 - Firstname entered
+2021-06-02 18:26:17,202 [main] INFO TestCase1 - Lastname entered
+2021-06-02 18:26:17,361 [main] INFO TestCase1 - Address entered
+2021-06-02 18:26:17,533 [main] INFO TestCase1 - Email entered
+2021-06-02 18:26:18,143 [main] INFO TestCase1 - Screenshot taken...
+2021-06-02 18:26:18,532 [main] INFO TestCase1 - Screenshot taken...
+2021-06-02 18:29:43,290 [main] INFO BaseClass - Chrome browser started
+2021-06-02 18:29:48,220 [main] INFO TestCase1 - Firstname entered
+2021-06-02 18:29:48,423 [main] INFO TestCase1 - Lastname entered
+2021-06-02 18:29:48,536 [main] INFO TestCase1 - Address entered
+2021-06-02 18:29:48,711 [main] INFO TestCase1 - Email entered
+2021-06-02 18:29:49,392 [main] INFO TestCase1 - Screenshot taken...
+2021-06-02 18:29:49,700 [main] INFO TestCase1 - Screenshot taken...
+2021-06-02 18:40:04,661 [main] INFO BaseClass - Chrome browser started
+2021-06-02 18:40:09,571 [main] INFO TestCase1 - Firstname entered
+2021-06-02 18:40:09,764 [main] INFO TestCase1 - Lastname entered
+2021-06-02 18:40:09,942 [main] INFO TestCase1 - Address entered
+2021-06-02 18:40:10,060 [main] INFO TestCase1 - Email entered
+2021-06-02 18:41:14,586 [main] INFO BaseClass - Chrome browser started
+2021-06-02 18:41:19,190 [main] INFO TestCase1 - Firstname entered
+2021-06-02 18:41:19,342 [main] INFO TestCase1 - Lastname entered
+2021-06-02 18:41:19,535 [main] INFO TestCase1 - Address entered
+2021-06-02 18:41:19,718 [main] INFO TestCase1 - Email entered
+2021-06-02 18:42:55,803 [main] INFO BaseClass - Chrome browser started
+2021-06-02 18:43:00,331 [main] INFO TestCase1 - Firstname entered
+2021-06-02 18:43:00,590 [main] INFO TestCase1 - Lastname entered
+2021-06-02 18:43:00,772 [main] INFO TestCase1 - Address entered
+2021-06-02 18:43:01,019 [main] INFO TestCase1 - Email entered
+2021-06-02 18:48:38,539 [main] INFO BaseClass - Chrome browser started
+2021-06-02 18:48:42,471 [main] INFO TestCase1 - Firstname entered
+2021-06-02 18:48:42,797 [main] INFO TestCase1 - Lastname entered
+2021-06-02 18:48:43,016 [main] INFO TestCase1 - Address entered
+2021-06-02 18:48:43,234 [main] INFO TestCase1 - Email entered
+2021-06-02 19:34:03,522 [main] INFO BaseClass - Chrome browser started
+2021-06-02 19:34:08,350 [main] INFO TestCase1 - Firstname entered
+2021-06-02 19:34:08,698 [main] INFO TestCase1 - Lastname entered
+2021-06-02 19:34:09,051 [main] INFO TestCase1 - Address entered
+2021-06-02 19:34:09,354 [main] INFO TestCase1 - Email entered
+2021-06-02 19:34:09,710 [main] INFO TestCase1 - Screenshot taken...
+2021-06-02 19:34:09,994 [main] INFO TestCase1 - Screenshot taken...
+2021-06-02 19:43:23,689 [main] INFO BaseClass - Chrome browser started
+2021-06-02 19:43:29,582 [main] INFO TestCase1 - Firstname entered
+2021-06-02 19:43:29,769 [main] INFO TestCase1 - Lastname entered
+2021-06-02 19:43:29,872 [main] INFO TestCase1 - Address entered
+2021-06-02 19:43:30,072 [main] INFO TestCase1 - Email entered
+2021-06-02 19:43:30,518 [main] INFO TestCase1 - Screenshot taken...
+2021-06-02 19:43:30,828 [main] INFO TestCase1 - Screenshot taken...
+2021-06-02 20:09:58,816 [main] INFO BaseClass - Chrome browser started
+2021-06-02 20:10:11,683 [main] INFO TestCase1 - Firstname entered
+2021-06-02 20:10:11,752 [main] INFO TestCase1 - Lastname entered
+2021-06-02 20:10:11,807 [main] INFO TestCase1 - Address entered
+2021-06-02 20:13:46,461 [main] INFO BaseClass - Chrome browser started
+2021-06-02 20:13:50,554 [main] INFO TestCase1 - Firstname entered
+2021-06-02 20:13:50,624 [main] INFO TestCase1 - Lastname entered
+2021-06-02 20:13:50,687 [main] INFO TestCase1 - Address entered
+2021-06-02 20:18:02,844 [main] INFO TestCase1 - Email entered--------
+2021-06-02 20:18:04,104 [main] INFO TestCase1 - Screenshot taken...
+2021-06-02 20:18:05,338 [main] INFO TestCase1 - Screenshot taken...
+2021-06-02 20:28:17,906 [main] INFO BaseClass - Chrome browser started
+2021-06-02 20:29:02,999 [main] INFO BaseClass - Chrome browser started
+2021-06-02 20:29:38,860 [main] INFO TestCase1 - Firstname entered
+2021-06-02 20:29:38,940 [main] INFO TestCase1 - Lastname entered
+2021-06-02 20:29:39,004 [main] INFO TestCase1 - Address entered
+2021-06-02 20:29:39,804 [main] INFO TestCase1 - Email entered--------
+2021-06-02 20:29:39,986 [main] INFO TestCase1 - Screenshot taken...
+2021-06-02 20:29:40,126 [main] INFO TestCase1 - Screenshot taken...
+2021-06-03 12:03:37,422 [main] INFO BaseClass - Chrome browser started
+2021-06-03 12:03:58,079 [main] INFO TestCase1 - Firstname entered
+2021-06-03 12:03:58,298 [main] INFO TestCase1 - Lastname entered
+2021-06-03 12:03:58,512 [main] INFO TestCase1 - Address entered
+2021-06-03 12:03:58,773 [main] INFO TestCase1 - Email entered--------
+2021-06-03 12:03:59,325 [main] INFO TestCase1 - Screenshot taken...
+2021-06-03 12:03:59,925 [main] INFO TestCase1 - Screenshot taken...
+2021-06-03 12:10:04,570 [main] INFO BaseClass - Chrome browser started
+2021-06-03 12:12:04,361 [main] INFO BaseClass - Firefox browser started
+2021-06-03 12:12:55,517 [main] INFO TestCase1 - Firstname entered
+2021-06-03 12:12:55,591 [main] INFO TestCase1 - Lastname entered
+2021-06-03 12:12:55,747 [main] INFO TestCase1 - Address entered
+2021-06-03 12:12:55,798 [main] INFO TestCase1 - Email entered--------
+2021-06-03 12:12:56,227 [main] INFO TestCase1 - Screenshot taken...
+2021-06-03 12:12:56,431 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 16:47:30,781 [main] INFO BaseClass - Firefox browser started
+2021-06-06 16:47:34,977 [main] INFO TestCase1 - Firstname entered
+2021-06-06 16:47:35,051 [main] INFO TestCase1 - Lastname entered
+2021-06-06 16:47:35,121 [main] INFO TestCase1 - Address entered
+2021-06-06 16:47:35,156 [main] INFO TestCase1 - Email entered--------
+2021-06-06 16:47:35,331 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 16:47:35,449 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 16:59:28,441 [main] INFO BaseClass - Firefox browser started
+2021-06-06 16:59:31,454 [main] INFO TestCase1 - Firstname entered
+2021-06-06 16:59:31,493 [main] INFO TestCase1 - Lastname entered
+2021-06-06 16:59:31,566 [main] INFO TestCase1 - Address entered
+2021-06-06 16:59:31,624 [main] INFO TestCase1 - Email entered--------
+2021-06-06 16:59:31,784 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 16:59:31,883 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:00:09,149 [main] INFO BaseClass - Firefox browser started
+2021-06-06 17:00:12,887 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:00:12,936 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:00:12,971 [main] INFO TestCase1 - Address entered
+2021-06-06 17:00:13,027 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:00:13,146 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:00:13,218 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:01:24,173 [main] INFO BaseClass - Firefox browser started
+2021-06-06 17:01:27,420 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:01:27,459 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:01:27,520 [main] INFO TestCase1 - Address entered
+2021-06-06 17:01:27,550 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:01:27,696 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:01:27,783 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:02:34,974 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:02:38,707 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:02:38,776 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:02:38,881 [main] INFO TestCase1 - Address entered
+2021-06-06 17:02:38,955 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:02:39,207 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:02:39,368 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:04:51,240 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:04:55,223 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:04:55,354 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:04:55,430 [main] INFO TestCase1 - Address entered
+2021-06-06 17:04:55,501 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:04:55,803 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:04:55,932 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:14:20,933 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:14:25,088 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:14:25,176 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:14:25,260 [main] INFO TestCase1 - Address entered
+2021-06-06 17:14:25,408 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:14:25,569 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:14:25,713 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:16:32,767 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:16:36,803 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:16:36,904 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:16:36,982 [main] INFO TestCase1 - Address entered
+2021-06-06 17:16:37,107 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:16:37,389 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:16:37,642 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:17:25,095 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:17:29,271 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:17:29,358 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:17:29,450 [main] INFO TestCase1 - Address entered
+2021-06-06 17:17:29,530 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:17:29,749 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:17:29,928 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:19:28,386 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:19:32,394 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:19:32,470 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:19:32,555 [main] INFO TestCase1 - Address entered
+2021-06-06 17:19:32,613 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:19:32,825 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:19:33,015 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:21:13,021 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:21:16,892 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:21:17,005 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:21:17,093 [main] INFO TestCase1 - Address entered
+2021-06-06 17:21:17,154 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:21:17,349 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:21:17,528 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:22:25,021 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:22:29,916 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:22:30,091 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:22:30,261 [main] INFO TestCase1 - Address entered
+2021-06-06 17:22:30,419 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:22:30,772 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:22:31,024 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:37:11,563 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:37:15,975 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:37:16,525 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:37:16,697 [main] INFO TestCase1 - Address entered
+2021-06-06 17:37:16,830 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:37:17,106 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:37:17,380 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:41:12,361 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:41:16,851 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:41:17,068 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:41:17,204 [main] INFO TestCase1 - Address entered
+2021-06-06 17:41:17,349 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:41:17,674 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:41:18,012 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:43:07,780 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:43:13,686 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:43:13,968 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:43:14,095 [main] INFO TestCase1 - Address entered
+2021-06-06 17:43:14,211 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:43:14,572 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:43:14,908 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:45:22,098 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:45:27,136 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:45:27,289 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:45:27,461 [main] INFO TestCase1 - Address entered
+2021-06-06 17:45:27,598 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:45:28,207 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:45:28,615 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:46:27,322 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:46:31,964 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:46:32,263 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:46:32,440 [main] INFO TestCase1 - Address entered
+2021-06-06 17:46:32,552 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:46:33,153 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:46:33,680 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:48:05,569 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:48:10,909 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:48:11,074 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:48:11,305 [main] INFO TestCase1 - Address entered
+2021-06-06 17:48:29,999 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:48:30,531 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:48:30,927 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:56:23,583 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:56:27,731 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:56:28,204 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:56:28,362 [main] INFO TestCase1 - Address entered
+2021-06-06 17:56:28,515 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:56:28,829 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:56:29,178 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:59:03,226 [main] INFO BaseClass - Chrome browser started
+2021-06-06 17:59:08,335 [main] INFO TestCase1 - Firstname entered
+2021-06-06 17:59:08,507 [main] INFO TestCase1 - Lastname entered
+2021-06-06 17:59:09,016 [main] INFO TestCase1 - Address entered
+2021-06-06 17:59:09,122 [main] INFO TestCase1 - Email entered--------
+2021-06-06 17:59:09,410 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 17:59:09,633 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 18:00:28,953 [main] INFO BaseClass - Chrome browser started
+2021-06-06 18:00:33,928 [main] INFO TestCase1 - Firstname entered
+2021-06-06 18:00:34,353 [main] INFO TestCase1 - Lastname entered
+2021-06-06 18:00:34,498 [main] INFO TestCase1 - Address entered
+2021-06-06 18:00:34,688 [main] INFO TestCase1 - Email entered--------
+2021-06-06 18:00:35,067 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 18:00:35,396 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 21:25:43,253 [main] INFO BaseClass - Chrome browser started
+2021-06-06 21:25:47,970 [main] INFO TestCase1 - Firstname entered
+2021-06-06 21:25:48,153 [main] INFO TestCase1 - Lastname entered
+2021-06-06 21:25:48,316 [main] INFO TestCase1 - Address entered
+2021-06-06 21:25:48,481 [main] INFO TestCase1 - Email entered--------
+2021-06-06 21:25:48,915 [main] INFO TestCase1 - Screenshot taken...
+2021-06-06 21:25:49,190 [main] INFO TestCase1 - Screenshot taken...

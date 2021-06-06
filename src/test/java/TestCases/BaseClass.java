@@ -21,6 +21,8 @@ import org.testng.annotations.Parameters;
 import com.path.FrameworkConstants;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import ownc.Browser;
+import ownc.Names;
 
 public class BaseClass {
 
@@ -46,20 +48,21 @@ public class BaseClass {
 		logger = Logger.getLogger("BaseClass");
 		PropertyConfigurator.configure("log4j.properties");
 
-		if (browser.equals("chrome")) {
-			System.getProperty("", FrameworkConstants.getChromdriverpath() );
+		if (browser.equals(Names.CHROME)) {
+			//System.getProperty("", FrameworkConstants.getChromdriverpath() );
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
+			driver.manage().window().maximize();
 			logger.info("Chrome browser started");
-		} else if (browser.equals("firefox")) {
+		} else if (browser.equals(Names.FIREFOX)) {
 			WebDriverManager.firefoxdriver().setup();
 			driver = new FirefoxDriver();
 			logger.info("Firefox browser started");
-		} else if (browser.equals("edge")) {
+		} else if (browser.equals(Browser.edge)) {
 			WebDriverManager.edgedriver().setup();
 			driver = new EdgeDriver();
 			logger.info("Edge browser started");
-		} else if (browser.equals("ie")) {
+		} else if (browser.equals(Browser.ie)) {
 			WebDriverManager.iedriver().setup();
 			driver = new InternetExplorerDriver();
 			logger.info("Internet Explorer browser started");
