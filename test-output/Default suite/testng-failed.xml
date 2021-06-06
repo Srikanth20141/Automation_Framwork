@@ -3,14 +3,23 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
+      <class name="TestCases.TestCase4">
+        <methods>
+          <include name="s"/>
+        </methods>
+      </class> <!-- TestCases.TestCase4 -->
       <class name="TestCases.Testcase1">
         <methods>
-          <include name="test"/>
           <include name="lunchBrowser"/>
           <include name="closeBrowser"/>
           <include name="Registration"/>
         </methods>
       </class> <!-- TestCases.Testcase1 -->
+      <class name="TestCases.Testcase3">
+        <methods>
+          <include name="test_delete"/>
+        </methods>
+      </class> <!-- TestCases.Testcase3 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

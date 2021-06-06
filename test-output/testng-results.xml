@@ -1,57 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
+<testng-results ignored="2" total="5" passed="0" failed="0" skipped="3">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-06-06T21:25:40 IST" name="Suite" finished-at="2021-06-06T21:26:04 IST" duration-ms="24021">
+  <suite started-at="2021-06-06T21:32:09 IST" name="Default suite" finished-at="2021-06-06T21:32:09 IST" duration-ms="94">
     <groups>
     </groups>
-    <test started-at="2021-06-06T21:25:40 IST" name="Test" finished-at="2021-06-06T21:26:04 IST" duration-ms="24021">
-      <class name="TestCases.Testcase1">
-        <test-method is-config="true" signature="lunchBrowser(java.lang.String)[pri:0, instance:TestCases.Testcase1@1139b2f3]" started-at="2021-06-06T21:25:40 IST" name="lunchBrowser" finished-at="2021-06-06T21:25:47 IST" duration-ms="6981" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- lunchBrowser -->
-        <test-method signature="Registration()[pri:0, instance:TestCases.Testcase1@1139b2f3]" started-at="2021-06-06T21:25:47 IST" name="Registration" finished-at="2021-06-06T21:25:54 IST" duration-ms="6801" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Registration -->
-        <test-method signature="test()[pri:0, instance:TestCases.Testcase1@1139b2f3]" started-at="2021-06-06T21:25:54 IST" name="test" finished-at="2021-06-06T21:26:04 IST" duration-ms="10176" status="FAIL">
-          <exception class="org.sikuli.script.FindFailed">
+    <test started-at="2021-06-06T21:32:09 IST" name="Default test" finished-at="2021-06-06T21:32:09 IST" duration-ms="94">
+      <class name="TestCases.TestCase4">
+        <test-method signature="s()[pri:0, instance:TestCases.TestCase4@20ce78ec]" started-at="2021-06-06T21:32:09 IST" name="s" finished-at="2021-06-06T21:32:09 IST" duration-ms="0" status="SKIP">
+          <exception class="org.testng.TestNGException">
             <message>
-              <![CDATA[C:\Users\ssa\git\Automation_Framwork\Files\fileInputTextBox.PNG: (696x39) in R[0,0 1536x864]@S(0)]]>
+              <![CDATA[
+Parameter 'browser' is required by BeforeTest on method lunchBrowser but has not been marked @Optional or defined
+in C:\Users\ssa\AppData\Local\Temp\testng-eclipse--1919002565\testng-customsuite.xml]]>
             </message>
             <full-stacktrace>
-              <![CDATA[FindFailed: C:\Users\ssa\git\Automation_Framwork\Files\fileInputTextBox.PNG: (696x39) in R[0,0 1536x864]@S(0)
-  Line 2226, in file Region.java
-
-at org.sikuli.script.Region.wait(Region.java:2226)
-at org.sikuli.script.Region.wait(Region.java:2244)
-at org.sikuli.script.Region.getLocationFromTarget(Region.java:3298)
-at org.sikuli.script.Region.click(Region.java:3916)
-at org.sikuli.script.Region.click(Region.java:3892)
-at TestCases.Testcase1.test(Testcase1.java:85)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:567)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:764)
-at org.testng.TestRunner.run(TestRunner.java:585)
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeTest on method lunchBrowser but has not been marked @Optional or defined
+in C:\Users\ssa\AppData\Local\Temp\testng-eclipse--1919002565\testng-customsuite.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:268)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:356)
+at org.testng.internal.Parameters.createParameters(Parameters.java:700)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:166)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:301)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:617)
+at org.testng.TestRunner.beforeRun(TestRunner.java:607)
+at org.testng.TestRunner.run(TestRunner.java:578)
 at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
 at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
 at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
@@ -67,15 +41,135 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.sikuli.script.FindFailed -->
+          </exception> <!-- org.testng.TestNGException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.Testcase1@1139b2f3]" started-at="2021-06-06T21:26:04 IST" name="closeBrowser" finished-at="2021-06-06T21:26:04 IST" duration-ms="0" status="PASS">
+        </test-method> <!-- s -->
+      </class> <!-- TestCases.TestCase4 -->
+      <class name="TestCases.BaseClass">
+        <test-method is-config="true" signature="lunchBrowser(java.lang.String)[pri:0, instance:TestCases.BaseClass@7714e963]" started-at="2021-06-06T21:32:09 IST" name="lunchBrowser" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1622995329585" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'browser' is required by BeforeTest on method lunchBrowser but has not been marked @Optional or defined
+in C:\Users\ssa\AppData\Local\Temp\testng-eclipse--1919002565\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeTest on method lunchBrowser but has not been marked @Optional or defined
+in C:\Users\ssa\AppData\Local\Temp\testng-eclipse--1919002565\testng-customsuite.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:268)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:356)
+at org.testng.internal.Parameters.createParameters(Parameters.java:700)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:166)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:301)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:617)
+at org.testng.TestRunner.beforeRun(TestRunner.java:607)
+at org.testng.TestRunner.run(TestRunner.java:578)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.BaseClass@7714e963]" started-at="2021-06-06T21:32:09 IST" name="closeBrowser" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1622995329666" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCases.BaseClass -->
+      <class name="TestCases.Testcase3">
+        <test-method signature="test_delete()[pri:0, instance:TestCases.Testcase3@393671df]" started-at="2021-06-06T21:32:09 IST" name="test_delete" finished-at="2021-06-06T21:32:09 IST" duration-ms="0" status="SKIP">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'browser' is required by BeforeTest on method lunchBrowser but has not been marked @Optional or defined
+in C:\Users\ssa\AppData\Local\Temp\testng-eclipse--1919002565\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeTest on method lunchBrowser but has not been marked @Optional or defined
+in C:\Users\ssa\AppData\Local\Temp\testng-eclipse--1919002565\testng-customsuite.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:268)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:356)
+at org.testng.internal.Parameters.createParameters(Parameters.java:700)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:166)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:301)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:617)
+at org.testng.TestRunner.beforeRun(TestRunner.java:607)
+at org.testng.TestRunner.run(TestRunner.java:578)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_delete -->
+      </class> <!-- TestCases.Testcase3 -->
+      <class name="TestCases.Testcase1">
+        <test-method signature="Registration()[pri:0, instance:TestCases.Testcase1@56620197]" started-at="2021-06-06T21:32:09 IST" name="Registration" finished-at="2021-06-06T21:32:09 IST" duration-ms="0" status="SKIP">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'browser' is required by BeforeTest on method lunchBrowser but has not been marked @Optional or defined
+in C:\Users\ssa\AppData\Local\Temp\testng-eclipse--1919002565\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeTest on method lunchBrowser but has not been marked @Optional or defined
+in C:\Users\ssa\AppData\Local\Temp\testng-eclipse--1919002565\testng-customsuite.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:268)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:356)
+at org.testng.internal.Parameters.createParameters(Parameters.java:700)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:166)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:301)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:617)
+at org.testng.TestRunner.beforeRun(TestRunner.java:607)
+at org.testng.TestRunner.run(TestRunner.java:578)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
       </class> <!-- TestCases.Testcase1 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
