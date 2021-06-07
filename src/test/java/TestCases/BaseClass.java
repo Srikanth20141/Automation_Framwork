@@ -75,7 +75,7 @@ public class BaseClass {
 	public void closeBrowser() {
 		// driver!=null
 		if (Objects.nonNull(driver)) {
-			 //driver.quit();
+			 driver.quit();
 		}
 
 	}
