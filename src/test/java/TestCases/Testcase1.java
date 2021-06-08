@@ -37,7 +37,7 @@ public class Testcase1 extends BaseClass{
 		System.out.println();
 		System.out.println();
 		automationPage.typeFirstName(fname);
-		Assert.assertEquals(fname /* actual value */, "Srikanth1" /* expected value */, "First Name Entered Incorrected");
+		Assert.assertEquals(fname /* actual value */, "srikanth1" /* expected value */, "First Name Entered Incorrected");
 		logger.info("Firstname entered");
 		automationPage.typeLastName(lname);
 		logger.info("Lastname entered");
