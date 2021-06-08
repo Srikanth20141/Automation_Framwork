@@ -29,7 +29,7 @@ public class Testcase1 extends BaseClass{
 		InputStream inputStr = new FileInputStream("C:\\Users\\ssa\\eclipse-workspace\\com.tiqri.automation\\Files\\test1.properies");
 		pro.load(inputStr);
 
-		String fname = pro.getProperty("firstname1");
+		String fname = pro.getProperty("firstname");
 		String lname = pro.getProperty("lastname");
 		String address = pro.getProperty("address");
 		String email = pro.getProperty("email");
@@ -37,7 +37,7 @@ public class Testcase1 extends BaseClass{
 		System.out.println();
 		System.out.println();
 		automationPage.typeFirstName(fname);
-		//Assert.assertEquals(fname /* actual value */, "Sri" /* expected value */, "First name entered corrected");
+		Assert.assertEquals(fname /* actual value */, "Sri" /* expected value */, "First name entered corrected");
 		logger.info("Firstname entered");
 		automationPage.typeLastName(lname);
 		logger.info("Lastname entered");
