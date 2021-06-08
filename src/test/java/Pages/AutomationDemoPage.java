@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class AutomationDemoPage {
 
-	@FindBy(how = How.XPATH, using = "//input[@placeholder='First Name']")
+	@FindBy(how = How.XPATH, using = "//input[@placeholder='First Name1']")
 	WebElement txtFirtName;
 
 	@FindBy(how = How.XPATH, using = "//input[@placeholder=\"Last Name\"]")
