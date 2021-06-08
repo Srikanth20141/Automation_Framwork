@@ -6,6 +6,7 @@ import java.util.Properties;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import Pages.AutomationDemoPage;
@@ -36,7 +37,7 @@ public class Testcase1 extends BaseClass{
 		System.out.println();
 		System.out.println();
 		automationPage.typeFirstName(fname);
-		//log("srikanth");
+		Assert.assertEquals(fname /* actual value */, "Sri" /* expected value */, "First name entered corrected");
 		logger.info("Firstname entered");
 		automationPage.typeLastName(lname);
 		logger.info("Lastname entered");
