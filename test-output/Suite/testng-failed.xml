@@ -6,9 +6,9 @@
     <classes>
       <class name="TestCases.Testcase1">
         <methods>
-          <include name="test"/>
           <include name="lunchBrowser"/>
           <include name="closeBrowser"/>
+          <include name="Registration"/>
         </methods>
       </class> <!-- TestCases.Testcase1 -->
     </classes>
