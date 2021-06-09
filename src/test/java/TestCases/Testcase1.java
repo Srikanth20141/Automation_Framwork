@@ -29,7 +29,7 @@ public class Testcase1 extends BaseClass{
 		InputStream inputStr = new FileInputStream("C:\\Users\\ssa\\git\\Automation_Framwork\\Files\\test1.properies");
 		pro.load(inputStr);
 
-		String fname = pro.getProperty("firstname")
+		String fname = pro.getProperty("firstname");
 		String lname = pro.getProperty("lastname");
 		String address = pro.getProperty("address");
 		String email = pro.getProperty("email");
