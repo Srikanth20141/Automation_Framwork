@@ -10,11 +10,11 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import Pages.AutomationDemoPage;
+import recordingTest.ScreenRecorderUtil;
 
 public class Testcase1 extends BaseClass{
 	@Test
 	public void Registration() throws Exception {
-		int x;
 		logger = Logger.getLogger("TestCase1");
 		AutomationDemoPage automationPage = PageFactory.initElements(driver, AutomationDemoPage.class);
 		
@@ -28,14 +28,12 @@ public class Testcase1 extends BaseClass{
 		Properties pro = new Properties();
 		InputStream inputStr = new FileInputStream("C:\\Users\\ssa\\git\\Automation_Framwork\\Files\\test1.properies");
 		pro.load(inputStr);
-
+		ScreenRecorderUtil.startRecord("CheckingLinks");
 		String fname = pro.getProperty("firstname");
 		String lname = pro.getProperty("lastname");
 		String address = pro.getProperty("address");
 		String email = pro.getProperty("email");
-		
-		System.out.println();
-		System.out.println();
+
 		automationPage.typeFirstName(fname);
 		Assert.assertEquals(fname /* actual value */, "srikanth" /* expected value */, "First Name Entered Incorrected");
 		logger.info("Firstname entered");
@@ -51,8 +49,8 @@ public class Testcase1 extends BaseClass{
 		//automationPage.selectOption("English");
 		captureScreen(driver,"Screenshot1");
 		captureScreen(driver,"After Register");
-		
-		Thread.sleep(5000);
+		ScreenRecorderUtil.stopRecord();
+		Thread.sleep(2000);
 
 
 

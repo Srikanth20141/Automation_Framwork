@@ -23,6 +23,7 @@ import com.path.FrameworkConstants;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import ownc.Browser;
 import ownc.Names;
+import recordingTest.ScreenRecorderUtil;
 
 public class BaseClass {
 
@@ -47,8 +48,8 @@ public class BaseClass {
 	public void lunchBrowser(String browser) {
 		logger = Logger.getLogger("BaseClass");
 		PropertyConfigurator.configure("log4j.properties");
-
-		if (browser.equals(Names.CHROME)) {
+		
+		if (browser.equals("chrome")) {
 			//System.getProperty("", FrameworkConstants.getChromdriverpath() );
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
