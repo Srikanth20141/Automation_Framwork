@@ -41,7 +41,7 @@ public class Testcase1 extends BaseClass{
 		logger.info("Lastname entered");
 		automationPage.typeAddress(address);
 		logger.info("Address entered");
-		automationPage.typeEmail(email);
+		automationPage.typeEmail(email)
 		//automationPage.getA();
 		logger.info("Email entered--------");
 		//automationPage.portfolioRenewalSearch("Catalan");
