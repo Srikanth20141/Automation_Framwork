@@ -39,7 +39,7 @@ public class Testcase1 extends BaseClass{
 		logger.info("Firstname entered");
 		automationPage.typeLastName(lname);
 		logger.info("Lastname entered");
-		automationPage.typeAddress(address);
+		automationPage.typeAddress(address)
 		logger.info("Address entered");
 		automationPage.typeEmail(email);
 		//automationPage.getA();
